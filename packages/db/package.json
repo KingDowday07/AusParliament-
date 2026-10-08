@@ -7,10 +7,13 @@
   "types": "src/index.ts",
   "scripts": {
     "validate-seed": "tsx src/validateSeed.ts",
+    "db:push": "drizzle-kit push",
+    "db:import-seed": "tsx src/importSeedToDb.ts",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@au-graph/data-model": "*",
+    "dotenv": "^16.4.5",
     "drizzle-orm": "^0.45.2",
     "postgres": "^3.4.4"
   },

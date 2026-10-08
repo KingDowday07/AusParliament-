@@ -3,8 +3,9 @@
 import { useMemo, useState } from "react";
 import type { Entity, Relationship } from "@au-graph/data-model";
 import { computeForceLayout } from "@/lib/force-layout";
-import { BRANCH_COLOR, ENTITY_TYPE_ICON } from "@/lib/entity-icon-map";
+import { ENTITY_TYPE_ICON } from "@/lib/entity-icon-map";
 import { NodeIcon } from "@/components/powermap/NodeIcon";
+import { NodeGradientDefs, nodeGradientUrl } from "@/components/powermap/NodeGradientDefs";
 
 const VIEW_HALF = 480;
 
@@ -30,6 +31,7 @@ export function ForceGraphView({
       role="img"
       aria-label="Force-directed graph of the Australian Commonwealth Government"
     >
+      <NodeGradientDefs />
       <circle r={VIEW_HALF - 5} style={{ fill: "var(--canvas)" }} />
 
       <g>
@@ -47,6 +49,7 @@ export function ForceGraphView({
               stroke={isRelated ? "#e8c468" : "#8b8fa3"}
               strokeWidth={isRelated ? 1.3 : 0.5}
               opacity={focusedId ? (isRelated ? 0.9 : 0.08) : 0.3}
+              style={{ transition: "opacity 0.35s ease" }}
             />
           );
         })}
@@ -58,6 +61,7 @@ export function ForceGraphView({
           const isSelected = node.entity.id === selectedEntityId;
           const isHovered = node.entity.id === hoveredId;
           const size = node.entity.hierarchyLevel === 0 ? 60 : 12;
+          const scale = isSelected ? 1.25 : isHovered ? 1.15 : 1;
           return (
             <g
               key={node.entity.id}
@@ -78,10 +82,20 @@ export function ForceGraphView({
               onBlur={() => setHoveredId(null)}
               style={{ cursor: "pointer", outline: "none" }}
             >
-              {(isSelected || isHovered) && (
-                <circle r={size / 2 + 5} fill="none" stroke="#e8c468" strokeWidth={2} />
-              )}
-              <NodeIcon shape={shape} size={size} color={BRANCH_COLOR[node.entity.branch]} />
+              <g
+                style={{
+                  transform: `scale(${scale})`,
+                  transformOrigin: "center",
+                  transition: "transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1)",
+                }}
+              >
+                {(isSelected || isHovered) && (
+                  <circle r={size / 2 + 5} fill="none" stroke="#e8c468" strokeWidth={2} />
+                )}
+                <g style={{ filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.35))" }}>
+                  <NodeIcon shape={shape} size={size} color={nodeGradientUrl(node.entity.branch)} />
+                </g>
+              </g>
               <title>{node.entity.name}</title>
             </g>
           );

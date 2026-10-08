@@ -10,13 +10,18 @@ import { SearchModal } from "./search/SearchModal";
 import { ThemeToggle } from "./ThemeToggle";
 import { LatestNewsCard } from "./home/LatestNewsCard";
 import { LatestChangesCard } from "./home/LatestChangesCard";
+import { ChamberSeatingChart } from "./chamber/ChamberSeatingChart";
 import { useNavigationHistory } from "@/lib/useNavigationHistory";
+import { CHAMBER_ENTITY_IDS, CHAMBER_TITLES, type ChamberKey } from "@/lib/chamber-seating";
+
+type ChamberViewMode = ChamberKey | "both" | null;
 
 export function PowerMapApp({ data }: { data: GraphData }) {
   const { current: selectedEntityId, navigate, back, forward, canGoBack, canGoForward } =
     useNavigationHistory(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const [viewMode, setViewMode] = useState<"power-map" | "graph">("power-map");
+  const [chamberView, setChamberView] = useState<ChamberViewMode>(null);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -38,7 +43,13 @@ export function PowerMapApp({ data }: { data: GraphData }) {
     <div className="flex h-screen w-screen bg-background text-foreground">
       <aside className="w-[420px] shrink-0 border-r border-panel-border bg-panel">
         {selectedEntity ? (
-          <DetailPanel key={selectedEntity.id} data={data} entity={selectedEntity} onSelect={navigate} />
+          <DetailPanel
+            key={selectedEntity.id}
+            data={data}
+            entity={selectedEntity}
+            onSelect={navigate}
+            onViewChamber={setChamberView}
+          />
         ) : (
           <div className="flex h-full flex-col gap-3 overflow-y-auto p-5">
             <div className="text-xs uppercase tracking-wide text-muted">
@@ -90,33 +101,71 @@ export function PowerMapApp({ data }: { data: GraphData }) {
           <ThemeToggle />
         </div>
 
-        <div className="absolute bottom-4 left-4 z-10">
-          <LegendPanel />
-        </div>
+        {!chamberView && (
+          <div className="absolute bottom-4 left-4 z-10">
+            <LegendPanel />
+          </div>
+        )}
 
-        <div className="absolute bottom-4 right-4 z-10 flex overflow-hidden rounded-full border border-panel-border bg-panel text-sm">
-          <button
-            onClick={() => setViewMode("graph")}
-            aria-pressed={viewMode === "graph"}
-            className={`px-4 py-2 ${viewMode === "graph" ? "bg-accent text-black" : "text-muted"}`}
-          >
-            Graph
-          </button>
-          <button
-            onClick={() => setViewMode("power-map")}
-            aria-pressed={viewMode === "power-map"}
-            className={`px-4 py-2 ${viewMode === "power-map" ? "bg-accent text-black" : "text-muted"}`}
-          >
-            Power map
-          </button>
-        </div>
+        {!chamberView && (
+          <div className="absolute bottom-4 right-4 z-10 flex overflow-hidden rounded-full border border-panel-border bg-panel text-sm">
+            <button
+              onClick={() => setViewMode("graph")}
+              aria-pressed={viewMode === "graph"}
+              className={`px-4 py-2 ${viewMode === "graph" ? "bg-accent text-black" : "text-muted"}`}
+            >
+              Graph
+            </button>
+            <button
+              onClick={() => setViewMode("power-map")}
+              aria-pressed={viewMode === "power-map"}
+              className={`px-4 py-2 ${viewMode === "power-map" ? "bg-accent text-black" : "text-muted"}`}
+            >
+              Power map
+            </button>
+          </div>
+        )}
 
-        {viewMode === "power-map" ? (
+        {chamberView ? (
+          <div className="h-full overflow-y-auto bg-background p-4 pt-16">
+            <button
+              onClick={() => setChamberView(null)}
+              className="absolute left-4 top-4 z-10 rounded-full border border-panel-border bg-panel px-4 py-2 text-sm hover:border-accent"
+            >
+              ← Back to power map
+            </button>
+            {chamberView === "both" ? (
+              <div className="mx-auto flex max-w-5xl flex-col gap-8">
+                <ChamberSeatingChart
+                  data={data}
+                  chamberEntityId={CHAMBER_ENTITY_IDS.house}
+                  title={CHAMBER_TITLES.house}
+                />
+                <ChamberSeatingChart
+                  data={data}
+                  chamberEntityId={CHAMBER_ENTITY_IDS.senate}
+                  title={CHAMBER_TITLES.senate}
+                />
+              </div>
+            ) : (
+              <div className="mx-auto max-w-3xl">
+                <ChamberSeatingChart
+                  data={data}
+                  chamberEntityId={CHAMBER_ENTITY_IDS[chamberView]}
+                  title={CHAMBER_TITLES[chamberView]}
+                />
+              </div>
+            )}
+          </div>
+        ) : viewMode === "power-map" ? (
           <PowerMapCanvas
             entities={data.entities}
             relationships={data.relationships}
             selectedEntityId={selectedEntityId}
             onSelect={navigate}
+            onSectorClick={(branch) => {
+              if (branch === "legislative") setChamberView("both");
+            }}
           />
         ) : (
           <ForceGraphView

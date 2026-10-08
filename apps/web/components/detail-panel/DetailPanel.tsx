@@ -7,6 +7,8 @@ import { ENTITY_TYPE_LABEL } from "@/lib/entity-icon-map";
 import { getConnectionGroups, getCurrentOfficeholders, getNewsForEntity } from "@/lib/entity-queries";
 import { NewsTab } from "./NewsTab";
 import { ConnectionsTab } from "./ConnectionsTab";
+import { PersonAvatar } from "@/components/PersonAvatar";
+import { chamberKeyForEntityId, type ChamberKey } from "@/lib/chamber-seating";
 
 type Tab = "news" | "connections";
 
@@ -14,11 +16,14 @@ export function DetailPanel({
   data,
   entity,
   onSelect,
+  onViewChamber,
 }: {
   data: GraphData;
   entity: Entity;
   onSelect: (entityId: string) => void;
+  onViewChamber?: (chamber: ChamberKey) => void;
 }) {
+  const chamberKey = chamberKeyForEntityId(entity.id);
   const officeholders = getCurrentOfficeholders(data, entity.id);
   const groups = getConnectionGroups(data, entity.id);
   const news = getNewsForEntity(data, entity.id);
@@ -44,6 +49,15 @@ export function DetailPanel({
         )}
       </div>
 
+      {chamberKey && onViewChamber && (
+        <button
+          onClick={() => onViewChamber(chamberKey)}
+          className="rounded border border-accent px-3 py-2 text-left text-sm font-medium text-accent hover:bg-accent hover:text-black"
+        >
+          View seating chart →
+        </button>
+      )}
+
       {officeholders.length > 0 && (
         <div className="flex flex-col gap-2">
           {officeholders.length > 12 ? (
@@ -52,13 +66,16 @@ export function DetailPanel({
             </div>
           ) : (
             officeholders.map((o) => (
-              <div key={o.seat.id} className="rounded border border-panel-border p-3">
-                <div className="text-xs text-muted">{o.seat.label}</div>
-                {o.person ? (
-                  <div className="font-medium">{o.person.name}</div>
-                ) : (
-                  <div className="italic text-muted">Vacant / not on record</div>
-                )}
+              <div key={o.seat.id} className="flex items-center gap-3 rounded border border-panel-border p-3">
+                {o.person && <PersonAvatar person={o.person} />}
+                <div>
+                  <div className="text-xs text-muted">{o.seat.label}</div>
+                  {o.person ? (
+                    <div className="font-medium">{o.person.name}</div>
+                  ) : (
+                    <div className="italic text-muted">Vacant / not on record</div>
+                  )}
+                </div>
               </div>
             ))
           )}

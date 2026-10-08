@@ -13,7 +13,13 @@
       "officialWebsiteUrl": "https://www.aec.gov.au/",
       "iconShape": "seal",
       "hierarchyLevel": 0,
-      "dataSource": [{ "name": "Australian Electoral Commission", "url": "https://www.aec.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }]
+      "dataSource": [
+        {
+          "name": "Australian Electoral Commission",
+          "url": "https://www.aec.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "au-king",
@@ -27,7 +33,13 @@
       "officialWebsiteUrl": "https://www.royal.uk/",
       "iconShape": "crown",
       "hierarchyLevel": 1,
-      "dataSource": [{ "name": "Federal Register of Legislation", "url": "https://www.legislation.gov.au/C2004A03176", "fetchedAt": "2026-10-08T00:00:00.000Z" }]
+      "dataSource": [
+        {
+          "name": "Federal Register of Legislation",
+          "url": "https://www.legislation.gov.au/C2004A03176",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "au-governor-general",
@@ -40,7 +52,13 @@
       "officialWebsiteUrl": "https://www.gg.gov.au/",
       "iconShape": "vice-crown",
       "hierarchyLevel": 1,
-      "dataSource": [{ "name": "Governor-General of the Commonwealth of Australia", "url": "https://www.gg.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }]
+      "dataSource": [
+        {
+          "name": "Governor-General of the Commonwealth of Australia",
+          "url": "https://www.gg.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "au-federal-executive-council",
@@ -53,7 +71,13 @@
       "officialWebsiteUrl": "https://www.directory.gov.au/portfolios/prime-ministers/federal-executive-council",
       "iconShape": "council",
       "hierarchyLevel": 2,
-      "dataSource": [{ "name": "Australian Government Directory", "url": "https://www.directory.gov.au/portfolios/prime-ministers/federal-executive-council", "fetchedAt": "2026-10-08T00:00:00.000Z" }]
+      "dataSource": [
+        {
+          "name": "Australian Government Directory",
+          "url": "https://www.directory.gov.au/portfolios/prime-ministers/federal-executive-council",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "au-cabinet",
@@ -64,178 +88,1512 @@
       "description": "The peak decision-making body of the executive government. Unlike the Federal Executive Council, Cabinet has no basis in the Constitution or statute - it operates entirely by convention. It comprises senior ('Cabinet') ministers chaired by the Prime Minister; decisions are then formally ratified by the Federal Executive Council.",
       "iconShape": "council",
       "hierarchyLevel": 2,
-      "dataSource": [{ "name": "Australian Government Directory", "url": "https://www.directory.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }]
+      "dataSource": [
+        {
+          "name": "Australian Government Directory",
+          "url": "https://www.directory.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
     },
-
-    { "id": "au-dept-agriculture", "slug": "agriculture-fisheries-and-forestry", "type": "department", "name": "Department of Agriculture, Fisheries and Forestry", "branch": "executive", "portfolio": "Agriculture, Fisheries and Forestry", "description": "Administers Commonwealth policy and legislation for agriculture, fisheries, forestry, biosecurity, and food standards.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.agriculture.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-attorney-generals", "slug": "attorney-generals-department", "type": "department", "name": "Attorney-General's Department", "branch": "executive", "portfolio": "Attorney-General", "description": "Administers Commonwealth law and justice policy, including constitutional law, the legal system, national security law, and corporate/competition law frameworks.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.ag.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-climate-energy-environment-water", "slug": "climate-change-energy-environment-water", "type": "department", "name": "Department of Climate Change, Energy, the Environment and Water", "branch": "executive", "portfolio": "Climate Change, Energy, the Environment and Water", "description": "Administers Commonwealth climate, energy, environment protection and water resource policy and legislation.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.dcceew.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-defence", "slug": "defence", "type": "department", "name": "Department of Defence", "branch": "executive", "portfolio": "Defence", "description": "Administers the Australian Defence Force and Commonwealth defence policy, procurement, and national security capability.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.defence.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-education", "slug": "education", "type": "department", "name": "Department of Education", "branch": "executive", "portfolio": "Education", "description": "Administers Commonwealth schools, higher education, and early childhood education policy and funding.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.education.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-employment-workplace-relations", "slug": "employment-and-workplace-relations", "type": "department", "name": "Department of Employment and Workplace Relations", "branch": "executive", "portfolio": "Employment and Workplace Relations", "description": "Administers Commonwealth employment services, workplace relations law, and skills/vocational training policy.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.dewr.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-finance", "slug": "finance", "type": "department", "name": "Department of Finance", "branch": "executive", "portfolio": "Finance", "description": "Administers the Commonwealth Budget's expenditure side, public sector governance, government property, and government business enterprises.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.finance.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-foreign-affairs-trade", "slug": "foreign-affairs-and-trade", "type": "department", "name": "Department of Foreign Affairs and Trade", "branch": "executive", "portfolio": "Foreign Affairs and Trade", "description": "Administers Australia's foreign policy, diplomatic missions, consular services, trade policy, and overseas development assistance.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.dfat.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-health-disability-ageing", "slug": "health-disability-and-ageing", "type": "department", "name": "Department of Health, Disability and Ageing", "branch": "executive", "portfolio": "Health, Disability and Ageing", "description": "Administers Medicare, the Pharmaceutical Benefits Scheme, aged care, and (jointly with the NDIA) disability support policy.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.health.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-home-affairs", "slug": "home-affairs", "type": "department", "name": "Department of Home Affairs", "branch": "executive", "portfolio": "Home Affairs", "description": "Administers immigration, citizenship, border protection, cyber security and national emergency management policy.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.homeaffairs.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-industry-science-resources", "slug": "industry-science-and-resources", "type": "department", "name": "Department of Industry, Science and Resources", "branch": "executive", "portfolio": "Industry, Science and Resources", "description": "Administers Commonwealth industry policy, science and research funding, and resources/energy-production portfolios.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.industry.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-infrastructure-transport-regional-comms-sport-arts", "slug": "infrastructure-transport-regional-development-communications-sport-and-the-arts", "type": "department", "name": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts", "branch": "executive", "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport and the Arts", "description": "Administers national infrastructure and transport policy, regional development programs, telecommunications/media regulation, sport and the arts.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.infrastructure.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-pm-and-cabinet", "slug": "prime-minister-and-cabinet", "type": "department", "name": "Department of the Prime Minister and Cabinet", "branch": "executive", "portfolio": "Prime Minister and Cabinet", "description": "Supports the Prime Minister and Cabinet, coordinates policy across the whole of government, and administers Indigenous affairs programs and the honours system.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.pmc.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-social-services", "slug": "social-services", "type": "department", "name": "Department of Social Services", "branch": "executive", "portfolio": "Social Services", "description": "Administers social security policy, families and communities programs, and housing/homelessness policy.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.dss.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-treasury", "slug": "the-treasury", "type": "department", "name": "Department of the Treasury", "branch": "executive", "portfolio": "Treasury", "description": "Administers Commonwealth Budget revenue policy, macroeconomic and fiscal policy, and financial system regulation frameworks.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://treasury.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-dept-veterans-affairs", "slug": "veterans-affairs", "type": "department", "name": "Department of Veterans' Affairs", "branch": "executive", "portfolio": "Veterans' Affairs", "description": "Administers compensation, rehabilitation and support services for current and former Australian Defence Force members and their families.", "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246", "officialWebsiteUrl": "https://www.dva.gov.au/", "iconShape": "square", "hierarchyLevel": 4, "dataSource": [{ "name": "Administrative Arrangements Order", "url": "https://www.legislation.gov.au/C2025G00246", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-
-    { "id": "au-court-high-court", "slug": "high-court-of-australia", "type": "court", "name": "High Court of Australia", "branch": "judicial", "description": "Australia's highest court, established under s71 of the Constitution. Interprets the Constitution, hears appeals from state and federal courts, and exercises original jurisdiction in matters such as disputes between the Commonwealth and the states. Comprises a Chief Justice and six other Justices, all appointed by the Governor-General in Council.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "officialWebsiteUrl": "https://www.hcourt.gov.au/", "iconShape": "diamond", "hierarchyLevel": 3, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-court-federal-court", "slug": "federal-court-of-australia", "type": "court", "name": "Federal Court of Australia", "branch": "judicial", "description": "A superior court created by the Federal Court of Australia Act 1976, hearing most civil disputes arising under Commonwealth law (including corporations, competition, intellectual property, native title, migration, and admiralty matters) and appeals from the Federal Circuit and Family Court. Has around 50 judges nationally; only the Chief Justice is modelled in this first version (full bench deferred to a later phase).", "legalSourceUrl": "https://www.legislation.gov.au/C2004A01611", "officialWebsiteUrl": "https://www.fedcourt.gov.au/", "iconShape": "diamond", "hierarchyLevel": 3, "dataSource": [{ "name": "Federal Court of Australia", "url": "https://www.fedcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-
-    { "id": "au-head-dept-pmc", "slug": "secretary-of-the-department-of-the-prime-minister-and-cabinet", "type": "department_head", "name": "Secretary of the Department of the Prime Minister and Cabinet", "branch": "executive", "description": "The apolitical public-service head of the Department of the Prime Minister and Cabinet, appointed by the Governor-General on the Prime Minister's recommendation under the Public Service Act 1999.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-pm-and-cabinet", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [{ "name": "PM&C Secretary appointments", "url": "https://www.pmc.gov.au/government/administration/secretary-appointments", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-head-dept-agriculture", "slug": "secretary-of-the-department-of-agriculture-fisheries-and-forestry", "type": "department_head", "name": "Secretary of the Department of Agriculture, Fisheries and Forestry", "branch": "executive", "description": "The apolitical public-service head of the Department of Agriculture, Fisheries and Forestry, appointed under the Public Service Act 1999.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-agriculture", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [{ "name": "PM&C Secretary appointments", "url": "https://www.pmc.gov.au/government/administration/secretary-appointments", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-head-dept-attorney-generals", "slug": "secretary-of-the-attorney-generals-department", "type": "department_head", "name": "Secretary of the Attorney-General's Department", "branch": "executive", "description": "The apolitical public-service head of the Attorney-General's Department, appointed under the Public Service Act 1999.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-attorney-generals", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [{ "name": "PM&C Secretary appointments", "url": "https://www.pmc.gov.au/government/administration/secretary-appointments", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-head-dept-climate-energy-environment-water", "slug": "secretary-of-the-department-of-climate-change-energy-the-environment-and-water", "type": "department_head", "name": "Secretary of the Department of Climate Change, Energy, the Environment and Water", "branch": "executive", "description": "The apolitical public-service head of the Department of Climate Change, Energy, the Environment and Water, appointed under the Public Service Act 1999.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-climate-energy-environment-water", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [{ "name": "PM&C Secretary appointments", "url": "https://www.pmc.gov.au/government/administration/secretary-appointments", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-
-    { "id": "au-head-dept-defence", "slug": "secretary-of-the-department-of-defence", "type": "department_head", "name": "Secretary of the Department of Defence", "branch": "executive", "description": "The apolitical public-service head of the Department of Defence, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-defence", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-education", "slug": "secretary-of-the-department-of-education", "type": "department_head", "name": "Secretary of the Department of Education", "branch": "executive", "description": "The apolitical public-service head of the Department of Education, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-education", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-employment-workplace-relations", "slug": "secretary-of-the-department-of-employment-and-workplace-relations", "type": "department_head", "name": "Secretary of the Department of Employment and Workplace Relations", "branch": "executive", "description": "The apolitical public-service head of the Department of Employment and Workplace Relations, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-employment-workplace-relations", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-finance", "slug": "secretary-of-the-department-of-finance", "type": "department_head", "name": "Secretary of the Department of Finance", "branch": "executive", "description": "The apolitical public-service head of the Department of Finance, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-finance", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-foreign-affairs-trade", "slug": "secretary-of-the-department-of-foreign-affairs-and-trade", "type": "department_head", "name": "Secretary of the Department of Foreign Affairs and Trade", "branch": "executive", "description": "The apolitical public-service head of the Department of Foreign Affairs and Trade, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-foreign-affairs-trade", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-health-disability-ageing", "slug": "secretary-of-the-department-of-health-disability-and-ageing", "type": "department_head", "name": "Secretary of the Department of Health, Disability and Ageing", "branch": "executive", "description": "The apolitical public-service head of the Department of Health, Disability and Ageing, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-health-disability-ageing", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-home-affairs", "slug": "secretary-of-the-department-of-home-affairs", "type": "department_head", "name": "Secretary of the Department of Home Affairs", "branch": "executive", "description": "The apolitical public-service head of the Department of Home Affairs, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-home-affairs", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-industry-science-resources", "slug": "secretary-of-the-department-of-industry-science-and-resources", "type": "department_head", "name": "Secretary of the Department of Industry, Science and Resources", "branch": "executive", "description": "The apolitical public-service head of the Department of Industry, Science and Resources, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-industry-science-resources", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-infrastructure-transport-regional-comms-sport-arts", "slug": "secretary-of-the-department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts", "type": "department_head", "name": "Secretary of the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts", "branch": "executive", "description": "The apolitical public-service head of the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-social-services", "slug": "secretary-of-the-department-of-social-services", "type": "department_head", "name": "Secretary of the Department of Social Services", "branch": "executive", "description": "The apolitical public-service head of the Department of Social Services, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-social-services", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-treasury", "slug": "secretary-of-the-treasury", "type": "department_head", "name": "Secretary to the Treasury", "branch": "executive", "description": "The apolitical public-service head of the Department of the Treasury, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-treasury", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-    { "id": "au-head-dept-veterans-affairs", "slug": "secretary-of-the-department-of-veterans-affairs", "type": "department_head", "name": "Secretary of the Department of Veterans' Affairs", "branch": "executive", "description": "The apolitical public-service head of the Department of Veterans' Affairs, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538", "parentEntityId": "au-dept-veterans-affairs", "iconShape": "badge", "hierarchyLevel": 4, "dataSource": [] },
-
-    { "id": "au-office-chief-justice-high-court", "slug": "chief-justice-of-the-high-court-of-australia", "type": "judicial_office", "name": "Chief Justice of the High Court of Australia", "branch": "judicial", "description": "The presiding Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-gordon", "slug": "justice-gordon", "type": "judicial_office", "name": "Justice of the High Court (seat: Gordon)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-edelman", "slug": "justice-edelman", "type": "judicial_office", "name": "Justice of the High Court (seat: Edelman)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-steward", "slug": "justice-steward", "type": "judicial_office", "name": "Justice of the High Court (seat: Steward)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-gleeson", "slug": "justice-gleeson", "type": "judicial_office", "name": "Justice of the High Court (seat: Gleeson)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-jagot", "slug": "justice-jagot", "type": "judicial_office", "name": "Justice of the High Court (seat: Jagot)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-justice-hc-beechjones", "slug": "justice-beech-jones", "type": "judicial_office", "name": "Justice of the High Court (seat: Beech-Jones)", "branch": "judicial", "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596", "parentEntityId": "au-court-high-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "High Court of Australia", "url": "https://www.hcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] },
-    { "id": "au-office-chief-justice-federal-court", "slug": "chief-justice-of-the-federal-court-of-australia", "type": "judicial_office", "name": "Chief Justice of the Federal Court of Australia", "branch": "judicial", "description": "The presiding Judge of the Federal Court of Australia, appointed by the Governor-General under the Federal Court of Australia Act 1976.", "legalSourceUrl": "https://www.legislation.gov.au/C2004A01611", "parentEntityId": "au-court-federal-court", "iconShape": "gavel", "hierarchyLevel": 4, "dataSource": [{ "name": "Federal Court of Australia", "url": "https://www.fedcourt.gov.au/", "fetchedAt": "2026-10-08T00:00:00.000Z" }] }
+    {
+      "id": "au-dept-agriculture",
+      "slug": "agriculture-fisheries-and-forestry",
+      "type": "department",
+      "name": "Department of Agriculture, Fisheries and Forestry",
+      "branch": "executive",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "description": "Administers Commonwealth policy and legislation for agriculture, fisheries, forestry, biosecurity, and food standards.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.agriculture.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-attorney-generals",
+      "slug": "attorney-generals-department",
+      "type": "department",
+      "name": "Attorney-General's Department",
+      "branch": "executive",
+      "portfolio": "Attorney-General",
+      "description": "Administers Commonwealth law and justice policy, including constitutional law, the legal system, national security law, and corporate/competition law frameworks.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.ag.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-climate-energy-environment-water",
+      "slug": "climate-change-energy-environment-water",
+      "type": "department",
+      "name": "Department of Climate Change, Energy, the Environment and Water",
+      "branch": "executive",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "description": "Administers Commonwealth climate, energy, environment protection and water resource policy and legislation.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.dcceew.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-defence",
+      "slug": "defence",
+      "type": "department",
+      "name": "Department of Defence",
+      "branch": "executive",
+      "portfolio": "Defence",
+      "description": "Administers the Australian Defence Force and Commonwealth defence policy, procurement, and national security capability.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.defence.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-education",
+      "slug": "education",
+      "type": "department",
+      "name": "Department of Education",
+      "branch": "executive",
+      "portfolio": "Education",
+      "description": "Administers Commonwealth schools, higher education, and early childhood education policy and funding.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.education.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-employment-workplace-relations",
+      "slug": "employment-and-workplace-relations",
+      "type": "department",
+      "name": "Department of Employment and Workplace Relations",
+      "branch": "executive",
+      "portfolio": "Employment and Workplace Relations",
+      "description": "Administers Commonwealth employment services, workplace relations law, and skills/vocational training policy.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.dewr.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-finance",
+      "slug": "finance",
+      "type": "department",
+      "name": "Department of Finance",
+      "branch": "executive",
+      "portfolio": "Finance",
+      "description": "Administers the Commonwealth Budget's expenditure side, public sector governance, government property, and government business enterprises.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.finance.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-foreign-affairs-trade",
+      "slug": "foreign-affairs-and-trade",
+      "type": "department",
+      "name": "Department of Foreign Affairs and Trade",
+      "branch": "executive",
+      "portfolio": "Foreign Affairs and Trade",
+      "description": "Administers Australia's foreign policy, diplomatic missions, consular services, trade policy, and overseas development assistance.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.dfat.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-health-disability-ageing",
+      "slug": "health-disability-and-ageing",
+      "type": "department",
+      "name": "Department of Health, Disability and Ageing",
+      "branch": "executive",
+      "portfolio": "Health, Disability and Ageing",
+      "description": "Administers Medicare, the Pharmaceutical Benefits Scheme, aged care, and (jointly with the NDIA) disability support policy.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.health.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-home-affairs",
+      "slug": "home-affairs",
+      "type": "department",
+      "name": "Department of Home Affairs",
+      "branch": "executive",
+      "portfolio": "Home Affairs",
+      "description": "Administers immigration, citizenship, border protection, cyber security and national emergency management policy.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.homeaffairs.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-industry-science-resources",
+      "slug": "industry-science-and-resources",
+      "type": "department",
+      "name": "Department of Industry, Science and Resources",
+      "branch": "executive",
+      "portfolio": "Industry, Science and Resources",
+      "description": "Administers Commonwealth industry policy, science and research funding, and resources/energy-production portfolios.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.industry.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-infrastructure-transport-regional-comms-sport-arts",
+      "slug": "infrastructure-transport-regional-development-communications-sport-and-the-arts",
+      "type": "department",
+      "name": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "branch": "executive",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "description": "Administers national infrastructure and transport policy, regional development programs, telecommunications/media regulation, sport and the arts.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.infrastructure.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-pm-and-cabinet",
+      "slug": "prime-minister-and-cabinet",
+      "type": "department",
+      "name": "Department of the Prime Minister and Cabinet",
+      "branch": "executive",
+      "portfolio": "Prime Minister and Cabinet",
+      "description": "Supports the Prime Minister and Cabinet, coordinates policy across the whole of government, and administers Indigenous affairs programs and the honours system.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.pmc.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-social-services",
+      "slug": "social-services",
+      "type": "department",
+      "name": "Department of Social Services",
+      "branch": "executive",
+      "portfolio": "Social Services",
+      "description": "Administers social security policy, families and communities programs, and housing/homelessness policy.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.dss.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-treasury",
+      "slug": "the-treasury",
+      "type": "department",
+      "name": "Department of the Treasury",
+      "branch": "executive",
+      "portfolio": "Treasury",
+      "description": "Administers Commonwealth Budget revenue policy, macroeconomic and fiscal policy, and financial system regulation frameworks.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://treasury.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-dept-veterans-affairs",
+      "slug": "veterans-affairs",
+      "type": "department",
+      "name": "Department of Veterans' Affairs",
+      "branch": "executive",
+      "portfolio": "Veterans' Affairs",
+      "description": "Administers compensation, rehabilitation and support services for current and former Australian Defence Force members and their families.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2025G00246",
+      "officialWebsiteUrl": "https://www.dva.gov.au/",
+      "iconShape": "square",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Administrative Arrangements Order",
+          "url": "https://www.legislation.gov.au/C2025G00246",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-court-high-court",
+      "slug": "high-court-of-australia",
+      "type": "court",
+      "name": "High Court of Australia",
+      "branch": "judicial",
+      "description": "Australia's highest court, established under s71 of the Constitution. Interprets the Constitution, hears appeals from state and federal courts, and exercises original jurisdiction in matters such as disputes between the Commonwealth and the states. Comprises a Chief Justice and six other Justices, all appointed by the Governor-General in Council.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "officialWebsiteUrl": "https://www.hcourt.gov.au/",
+      "iconShape": "diamond",
+      "hierarchyLevel": 3,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-court-federal-court",
+      "slug": "federal-court-of-australia",
+      "type": "court",
+      "name": "Federal Court of Australia",
+      "branch": "judicial",
+      "description": "A superior court created by the Federal Court of Australia Act 1976, hearing most civil disputes arising under Commonwealth law (including corporations, competition, intellectual property, native title, migration, and admiralty matters) and appeals from the Federal Circuit and Family Court. Has around 50 judges nationally; only the Chief Justice is modelled in this first version (full bench deferred to a later phase).",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A01611",
+      "officialWebsiteUrl": "https://www.fedcourt.gov.au/",
+      "iconShape": "diamond",
+      "hierarchyLevel": 3,
+      "dataSource": [
+        {
+          "name": "Federal Court of Australia",
+          "url": "https://www.fedcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-head-dept-pmc",
+      "slug": "secretary-of-the-department-of-the-prime-minister-and-cabinet",
+      "type": "department_head",
+      "name": "Secretary of the Department of the Prime Minister and Cabinet",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of the Prime Minister and Cabinet, appointed by the Governor-General on the Prime Minister's recommendation under the Public Service Act 1999.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-pm-and-cabinet",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "PM&C Secretary appointments",
+          "url": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-head-dept-agriculture",
+      "slug": "secretary-of-the-department-of-agriculture-fisheries-and-forestry",
+      "type": "department_head",
+      "name": "Secretary of the Department of Agriculture, Fisheries and Forestry",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Agriculture, Fisheries and Forestry, appointed under the Public Service Act 1999.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-agriculture",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "PM&C Secretary appointments",
+          "url": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-head-dept-attorney-generals",
+      "slug": "secretary-of-the-attorney-generals-department",
+      "type": "department_head",
+      "name": "Secretary of the Attorney-General's Department",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Attorney-General's Department, appointed under the Public Service Act 1999.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-attorney-generals",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "PM&C Secretary appointments",
+          "url": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-head-dept-climate-energy-environment-water",
+      "slug": "secretary-of-the-department-of-climate-change-energy-the-environment-and-water",
+      "type": "department_head",
+      "name": "Secretary of the Department of Climate Change, Energy, the Environment and Water",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Climate Change, Energy, the Environment and Water, appointed under the Public Service Act 1999.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-climate-energy-environment-water",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "PM&C Secretary appointments",
+          "url": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-head-dept-defence",
+      "slug": "secretary-of-the-department-of-defence",
+      "type": "department_head",
+      "name": "Secretary of the Department of Defence",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Defence, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-defence",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-education",
+      "slug": "secretary-of-the-department-of-education",
+      "type": "department_head",
+      "name": "Secretary of the Department of Education",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Education, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-education",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-employment-workplace-relations",
+      "slug": "secretary-of-the-department-of-employment-and-workplace-relations",
+      "type": "department_head",
+      "name": "Secretary of the Department of Employment and Workplace Relations",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Employment and Workplace Relations, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-employment-workplace-relations",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-finance",
+      "slug": "secretary-of-the-department-of-finance",
+      "type": "department_head",
+      "name": "Secretary of the Department of Finance",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Finance, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-finance",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-foreign-affairs-trade",
+      "slug": "secretary-of-the-department-of-foreign-affairs-and-trade",
+      "type": "department_head",
+      "name": "Secretary of the Department of Foreign Affairs and Trade",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Foreign Affairs and Trade, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-foreign-affairs-trade",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-health-disability-ageing",
+      "slug": "secretary-of-the-department-of-health-disability-and-ageing",
+      "type": "department_head",
+      "name": "Secretary of the Department of Health, Disability and Ageing",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Health, Disability and Ageing, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-health-disability-ageing",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-home-affairs",
+      "slug": "secretary-of-the-department-of-home-affairs",
+      "type": "department_head",
+      "name": "Secretary of the Department of Home Affairs",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Home Affairs, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-home-affairs",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-industry-science-resources",
+      "slug": "secretary-of-the-department-of-industry-science-and-resources",
+      "type": "department_head",
+      "name": "Secretary of the Department of Industry, Science and Resources",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Industry, Science and Resources, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-industry-science-resources",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-infrastructure-transport-regional-comms-sport-arts",
+      "slug": "secretary-of-the-department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts",
+      "type": "department_head",
+      "name": "Secretary of the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-social-services",
+      "slug": "secretary-of-the-department-of-social-services",
+      "type": "department_head",
+      "name": "Secretary of the Department of Social Services",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Social Services, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-social-services",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-treasury",
+      "slug": "secretary-of-the-treasury",
+      "type": "department_head",
+      "name": "Secretary to the Treasury",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of the Treasury, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-treasury",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-head-dept-veterans-affairs",
+      "slug": "secretary-of-the-department-of-veterans-affairs",
+      "type": "department_head",
+      "name": "Secretary of the Department of Veterans' Affairs",
+      "branch": "executive",
+      "description": "The apolitical public-service head of the Department of Veterans' Affairs, appointed under the Public Service Act 1999. Current holder not yet confirmed in this dataset.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A00538",
+      "parentEntityId": "au-dept-veterans-affairs",
+      "iconShape": "badge",
+      "hierarchyLevel": 4,
+      "dataSource": []
+    },
+    {
+      "id": "au-office-chief-justice-high-court",
+      "slug": "chief-justice-of-the-high-court-of-australia",
+      "type": "judicial_office",
+      "name": "Chief Justice of the High Court of Australia",
+      "branch": "judicial",
+      "description": "The presiding Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-gordon",
+      "slug": "justice-gordon",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Gordon)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-edelman",
+      "slug": "justice-edelman",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Edelman)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-steward",
+      "slug": "justice-steward",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Steward)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-gleeson",
+      "slug": "justice-gleeson",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Gleeson)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-jagot",
+      "slug": "justice-jagot",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Jagot)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-justice-hc-beechjones",
+      "slug": "justice-beech-jones",
+      "type": "judicial_office",
+      "name": "Justice of the High Court (seat: Beech-Jones)",
+      "branch": "judicial",
+      "description": "Justice of the High Court of Australia, appointed by the Governor-General in Council under s72 of the Constitution.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A07596",
+      "parentEntityId": "au-court-high-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "High Court of Australia",
+          "url": "https://www.hcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "au-office-chief-justice-federal-court",
+      "slug": "chief-justice-of-the-federal-court-of-australia",
+      "type": "judicial_office",
+      "name": "Chief Justice of the Federal Court of Australia",
+      "branch": "judicial",
+      "description": "The presiding Judge of the Federal Court of Australia, appointed by the Governor-General under the Federal Court of Australia Act 1976.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004A01611",
+      "parentEntityId": "au-court-federal-court",
+      "iconShape": "gavel",
+      "hierarchyLevel": 4,
+      "dataSource": [
+        {
+          "name": "Federal Court of Australia",
+          "url": "https://www.fedcourt.gov.au/",
+          "fetchedAt": "2026-10-08T00:00:00.000Z"
+        }
+      ]
+    }
   ],
-
   "persons": [
-    { "id": "au-person-charles-iii", "name": "Charles III" },
-    { "id": "au-person-sam-mostyn", "name": "Sam Mostyn" },
-    { "id": "au-person-steven-kennedy", "name": "Steven Kennedy" },
-    { "id": "au-person-victoria-anderson", "name": "Victoria Anderson" },
-    { "id": "au-person-katherine-jones", "name": "Katherine Jones" },
-    { "id": "au-person-mike-kaiser", "name": "Mike Kaiser" },
-    { "id": "au-person-stephen-gageler", "name": "Stephen Gageler" },
-    { "id": "au-person-michelle-gordon", "name": "Michelle Gordon" },
-    { "id": "au-person-james-edelman", "name": "James Edelman" },
-    { "id": "au-person-simon-steward", "name": "Simon Steward" },
-    { "id": "au-person-jacqueline-gleeson", "name": "Jacqueline Gleeson" },
-    { "id": "au-person-jayne-jagot", "name": "Jayne Jagot" },
-    { "id": "au-person-robert-beech-jones", "name": "Robert Beech-Jones" },
-    { "id": "au-person-debra-mortimer", "name": "Debra Mortimer" }
+    {
+      "id": "au-person-charles-iii",
+      "name": "Charles III",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "au-person-sam-mostyn",
+      "name": "Sam Mostyn",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Sam_Mostyn_2024.jpg/330px-Sam_Mostyn_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "au-person-steven-kennedy",
+      "name": "Steven Kennedy"
+    },
+    {
+      "id": "au-person-victoria-anderson",
+      "name": "Victoria Anderson"
+    },
+    {
+      "id": "au-person-katherine-jones",
+      "name": "Katherine Jones"
+    },
+    {
+      "id": "au-person-mike-kaiser",
+      "name": "Mike Kaiser"
+    },
+    {
+      "id": "au-person-stephen-gageler",
+      "name": "Stephen Gageler",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/GagelerSwearingIn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "au-person-michelle-gordon",
+      "name": "Michelle Gordon",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Justice_Gordon_Singapore_Management_University_2024.jpg/330px-Justice_Gordon_Singapore_Management_University_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "au-person-james-edelman",
+      "name": "James Edelman"
+    },
+    {
+      "id": "au-person-simon-steward",
+      "name": "Simon Steward"
+    },
+    {
+      "id": "au-person-jacqueline-gleeson",
+      "name": "Jacqueline Gleeson"
+    },
+    {
+      "id": "au-person-jayne-jagot",
+      "name": "Jayne Jagot"
+    },
+    {
+      "id": "au-person-robert-beech-jones",
+      "name": "Robert Beech-Jones"
+    },
+    {
+      "id": "au-person-debra-mortimer",
+      "name": "Debra Mortimer"
+    }
   ],
-
   "seats": [
-    { "id": "au-seat-king", "entityId": "au-king", "label": "The King", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-governor-general", "entityId": "au-governor-general", "label": "Governor-General", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-pmc", "entityId": "au-head-dept-pmc", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-agriculture", "entityId": "au-head-dept-agriculture", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-attorney-generals", "entityId": "au-head-dept-attorney-generals", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-climate-energy-environment-water", "entityId": "au-head-dept-climate-energy-environment-water", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-defence", "entityId": "au-head-dept-defence", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-education", "entityId": "au-head-dept-education", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-employment-workplace-relations", "entityId": "au-head-dept-employment-workplace-relations", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-finance", "entityId": "au-head-dept-finance", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-foreign-affairs-trade", "entityId": "au-head-dept-foreign-affairs-trade", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-health-disability-ageing", "entityId": "au-head-dept-health-disability-ageing", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-home-affairs", "entityId": "au-head-dept-home-affairs", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-industry-science-resources", "entityId": "au-head-dept-industry-science-resources", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-infrastructure-transport-regional-comms-sport-arts", "entityId": "au-head-dept-infrastructure-transport-regional-comms-sport-arts", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-social-services", "entityId": "au-head-dept-social-services", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-treasury", "entityId": "au-head-dept-treasury", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-head-dept-veterans-affairs", "entityId": "au-head-dept-veterans-affairs", "label": "Secretary", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-chief-justice-high-court", "entityId": "au-office-chief-justice-high-court", "label": "Chief Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-gordon", "entityId": "au-office-justice-hc-gordon", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-edelman", "entityId": "au-office-justice-hc-edelman", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-steward", "entityId": "au-office-justice-hc-steward", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-gleeson", "entityId": "au-office-justice-hc-gleeson", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-jagot", "entityId": "au-office-justice-hc-jagot", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-justice-hc-beechjones", "entityId": "au-office-justice-hc-beechjones", "label": "Justice", "seatIndex": 1, "totalSeats": 1 },
-    { "id": "au-seat-office-chief-justice-federal-court", "entityId": "au-office-chief-justice-federal-court", "label": "Chief Justice", "seatIndex": 1, "totalSeats": 1 }
+    {
+      "id": "au-seat-king",
+      "entityId": "au-king",
+      "label": "The King",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-governor-general",
+      "entityId": "au-governor-general",
+      "label": "Governor-General",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-pmc",
+      "entityId": "au-head-dept-pmc",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-agriculture",
+      "entityId": "au-head-dept-agriculture",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-attorney-generals",
+      "entityId": "au-head-dept-attorney-generals",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-climate-energy-environment-water",
+      "entityId": "au-head-dept-climate-energy-environment-water",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-defence",
+      "entityId": "au-head-dept-defence",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-education",
+      "entityId": "au-head-dept-education",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-employment-workplace-relations",
+      "entityId": "au-head-dept-employment-workplace-relations",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-finance",
+      "entityId": "au-head-dept-finance",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-foreign-affairs-trade",
+      "entityId": "au-head-dept-foreign-affairs-trade",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-health-disability-ageing",
+      "entityId": "au-head-dept-health-disability-ageing",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-home-affairs",
+      "entityId": "au-head-dept-home-affairs",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-industry-science-resources",
+      "entityId": "au-head-dept-industry-science-resources",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-infrastructure-transport-regional-comms-sport-arts",
+      "entityId": "au-head-dept-infrastructure-transport-regional-comms-sport-arts",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-social-services",
+      "entityId": "au-head-dept-social-services",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-treasury",
+      "entityId": "au-head-dept-treasury",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-head-dept-veterans-affairs",
+      "entityId": "au-head-dept-veterans-affairs",
+      "label": "Secretary",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-chief-justice-high-court",
+      "entityId": "au-office-chief-justice-high-court",
+      "label": "Chief Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-gordon",
+      "entityId": "au-office-justice-hc-gordon",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-edelman",
+      "entityId": "au-office-justice-hc-edelman",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-steward",
+      "entityId": "au-office-justice-hc-steward",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-gleeson",
+      "entityId": "au-office-justice-hc-gleeson",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-jagot",
+      "entityId": "au-office-justice-hc-jagot",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-justice-hc-beechjones",
+      "entityId": "au-office-justice-hc-beechjones",
+      "label": "Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    },
+    {
+      "id": "au-seat-office-chief-justice-federal-court",
+      "entityId": "au-office-chief-justice-federal-court",
+      "label": "Chief Justice",
+      "seatIndex": 1,
+      "totalSeats": 1
+    }
   ],
-
   "terms": [
-    { "id": "au-term-king", "seatId": "au-seat-king", "personId": "au-person-charles-iii", "startDate": "2022-09-08", "endDate": null, "installingRelationshipId": "au-rel-hereditary-succession", "sourceUrl": "https://www.royal.uk/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-governor-general", "seatId": "au-seat-governor-general", "personId": "au-person-sam-mostyn", "startDate": "2024-07-01", "endDate": null, "installingRelationshipId": "au-rel-king-appoints-gg", "sourceUrl": "https://www.gg.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-head-dept-pmc", "seatId": "au-seat-head-dept-pmc", "personId": "au-person-steven-kennedy", "startDate": "2025-06-16", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-secretary-pmc", "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-head-dept-agriculture", "seatId": "au-seat-head-dept-agriculture", "personId": "au-person-victoria-anderson", "startDate": "2025-12-08", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-secretary-agriculture", "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-head-dept-attorney-generals", "seatId": "au-seat-head-dept-attorney-generals", "personId": "au-person-katherine-jones", "startDate": "2026-08-16", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-secretary-ag", "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-head-dept-climate-energy-environment-water", "seatId": "au-seat-head-dept-climate-energy-environment-water", "personId": "au-person-mike-kaiser", "startDate": "2025-07-14", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-secretary-dcceew", "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-chief-justice-high-court", "seatId": "au-seat-office-chief-justice-high-court", "personId": "au-person-stephen-gageler", "startDate": "2023-11-06", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-cj-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-gordon", "seatId": "au-seat-office-justice-hc-gordon", "personId": "au-person-michelle-gordon", "startDate": "2015-06-09", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-edelman", "seatId": "au-seat-office-justice-hc-edelman", "personId": "au-person-james-edelman", "startDate": "2017-01-30", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-steward", "seatId": "au-seat-office-justice-hc-steward", "personId": "au-person-simon-steward", "startDate": "2020-11-02", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-gleeson", "seatId": "au-seat-office-justice-hc-gleeson", "personId": "au-person-jacqueline-gleeson", "startDate": "2021-03-01", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-jagot", "seatId": "au-seat-office-justice-hc-jagot", "personId": "au-person-jayne-jagot", "startDate": "2022-10-31", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-justice-hc-beechjones", "seatId": "au-seat-office-justice-hc-beechjones", "personId": "au-person-robert-beech-jones", "startDate": "2022-11-03", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-justice-hc", "sourceUrl": "https://www.hcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" },
-    { "id": "au-term-office-chief-justice-federal-court", "seatId": "au-seat-office-chief-justice-federal-court", "personId": "au-person-debra-mortimer", "startDate": "2023-04-07", "endDate": null, "installingRelationshipId": "au-rel-gg-appoints-cj-fedcourt", "sourceUrl": "https://www.fedcourt.gov.au/", "confidence": "confirmed", "predecessorTermId": null, "predecessorUnknownReason": "pre-launch-gap" }
+    {
+      "id": "au-term-king",
+      "seatId": "au-seat-king",
+      "personId": "au-person-charles-iii",
+      "startDate": "2022-09-08",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-hereditary-succession",
+      "sourceUrl": "https://www.royal.uk/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-governor-general",
+      "seatId": "au-seat-governor-general",
+      "personId": "au-person-sam-mostyn",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-king-appoints-gg",
+      "sourceUrl": "https://www.gg.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-head-dept-pmc",
+      "seatId": "au-seat-head-dept-pmc",
+      "personId": "au-person-steven-kennedy",
+      "startDate": "2025-06-16",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-secretary-pmc",
+      "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-head-dept-agriculture",
+      "seatId": "au-seat-head-dept-agriculture",
+      "personId": "au-person-victoria-anderson",
+      "startDate": "2025-12-08",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-secretary-agriculture",
+      "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-head-dept-attorney-generals",
+      "seatId": "au-seat-head-dept-attorney-generals",
+      "personId": "au-person-katherine-jones",
+      "startDate": "2026-08-16",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-secretary-ag",
+      "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-head-dept-climate-energy-environment-water",
+      "seatId": "au-seat-head-dept-climate-energy-environment-water",
+      "personId": "au-person-mike-kaiser",
+      "startDate": "2025-07-14",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-secretary-dcceew",
+      "sourceUrl": "https://www.pmc.gov.au/government/administration/secretary-appointments",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-chief-justice-high-court",
+      "seatId": "au-seat-office-chief-justice-high-court",
+      "personId": "au-person-stephen-gageler",
+      "startDate": "2023-11-06",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-cj-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-gordon",
+      "seatId": "au-seat-office-justice-hc-gordon",
+      "personId": "au-person-michelle-gordon",
+      "startDate": "2015-06-09",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-edelman",
+      "seatId": "au-seat-office-justice-hc-edelman",
+      "personId": "au-person-james-edelman",
+      "startDate": "2017-01-30",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-steward",
+      "seatId": "au-seat-office-justice-hc-steward",
+      "personId": "au-person-simon-steward",
+      "startDate": "2020-11-02",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-gleeson",
+      "seatId": "au-seat-office-justice-hc-gleeson",
+      "personId": "au-person-jacqueline-gleeson",
+      "startDate": "2021-03-01",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-jagot",
+      "seatId": "au-seat-office-justice-hc-jagot",
+      "personId": "au-person-jayne-jagot",
+      "startDate": "2022-10-31",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-justice-hc-beechjones",
+      "seatId": "au-seat-office-justice-hc-beechjones",
+      "personId": "au-person-robert-beech-jones",
+      "startDate": "2022-11-03",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-justice-hc",
+      "sourceUrl": "https://www.hcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    },
+    {
+      "id": "au-term-office-chief-justice-federal-court",
+      "seatId": "au-seat-office-chief-justice-federal-court",
+      "personId": "au-person-debra-mortimer",
+      "startDate": "2023-04-07",
+      "endDate": null,
+      "installingRelationshipId": "au-rel-gg-appoints-cj-fedcourt",
+      "sourceUrl": "https://www.fedcourt.gov.au/",
+      "confidence": "confirmed",
+      "predecessorTermId": null,
+      "predecessorUnknownReason": "pre-launch-gap"
+    }
   ],
-
   "relationships": [
-    { "id": "au-rel-hereditary-succession", "type": "ex_officio", "fromEntityId": "au-electors", "toEntityId": "au-king", "description": "The Crown is hereditary, not elected; modelled as ex officio relative to the Australian constitutional order." },
-    { "id": "au-rel-king-appoints-gg", "type": "appoints", "fromEntityId": "au-king", "toEntityId": "au-governor-general", "description": "Appointed under s2 of the Constitution, by convention on the Prime Minister's advice.", "legalSourceUrl": "https://www.legislation.gov.au/C2004Q00685" },
-    { "id": "au-rel-pm-advises-king-on-gg", "type": "advises", "fromEntityId": "au-exec-prime-minister", "toEntityId": "au-king", "description": "By convention, the Prime Minister recommends who the King appoints as Governor-General." },
-    { "id": "au-rel-gg-member-fec", "type": "heads", "fromEntityId": "au-governor-general", "toEntityId": "au-federal-executive-council", "description": "The Governor-General presides over the Federal Executive Council." },
-    { "id": "au-rel-pm-heads-cabinet", "type": "heads", "fromEntityId": "au-exec-prime-minister", "toEntityId": "au-cabinet", "description": "The Prime Minister chairs Cabinet by convention." },
-    { "id": "au-rel-cabinet-advises-fec", "type": "advises", "fromEntityId": "au-cabinet", "toEntityId": "au-federal-executive-council", "description": "Cabinet decisions are given formal legal effect by the Federal Executive Council." },
-
-    { "id": "au-rel-gg-appoints-secretary-pmc", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-head-dept-pmc", "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation." },
-    { "id": "au-rel-gg-appoints-secretary-agriculture", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-head-dept-agriculture", "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation." },
-    { "id": "au-rel-gg-appoints-secretary-ag", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-head-dept-attorney-generals", "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation." },
-    { "id": "au-rel-gg-appoints-secretary-dcceew", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-head-dept-climate-energy-environment-water", "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation." },
-    { "id": "au-rel-gg-appoints-cj-hc", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-office-chief-justice-high-court", "description": "Appointed in Council under s72 of the Constitution." },
-    { "id": "au-rel-gg-appoints-justice-hc", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-court-high-court", "description": "High Court Justices are appointed in Council under s72 of the Constitution." },
-    { "id": "au-rel-gg-appoints-cj-fedcourt", "type": "appoints", "fromEntityId": "au-governor-general", "toEntityId": "au-office-chief-justice-federal-court", "description": "Appointed under the Federal Court of Australia Act 1976." },
-
-    { "id": "au-rel-head-pmc-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-pmc", "toEntityId": "au-dept-pm-and-cabinet" },
-    { "id": "au-rel-head-agriculture-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-agriculture", "toEntityId": "au-dept-agriculture" },
-    { "id": "au-rel-head-ag-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-attorney-generals", "toEntityId": "au-dept-attorney-generals" },
-    { "id": "au-rel-head-dcceew-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-climate-energy-environment-water", "toEntityId": "au-dept-climate-energy-environment-water" },
-    { "id": "au-rel-head-defence-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-defence", "toEntityId": "au-dept-defence" },
-    { "id": "au-rel-head-education-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-education", "toEntityId": "au-dept-education" },
-    { "id": "au-rel-head-ewr-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-employment-workplace-relations", "toEntityId": "au-dept-employment-workplace-relations" },
-    { "id": "au-rel-head-finance-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-finance", "toEntityId": "au-dept-finance" },
-    { "id": "au-rel-head-dfat-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-foreign-affairs-trade", "toEntityId": "au-dept-foreign-affairs-trade" },
-    { "id": "au-rel-head-health-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-health-disability-ageing", "toEntityId": "au-dept-health-disability-ageing" },
-    { "id": "au-rel-head-homeaffairs-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-home-affairs", "toEntityId": "au-dept-home-affairs" },
-    { "id": "au-rel-head-isr-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-industry-science-resources", "toEntityId": "au-dept-industry-science-resources" },
-    { "id": "au-rel-head-itrcsa-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-infrastructure-transport-regional-comms-sport-arts", "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts" },
-    { "id": "au-rel-head-dss-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-social-services", "toEntityId": "au-dept-social-services" },
-    { "id": "au-rel-head-treasury-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-treasury", "toEntityId": "au-dept-treasury" },
-    { "id": "au-rel-head-dva-heads-dept", "type": "heads", "fromEntityId": "au-head-dept-veterans-affairs", "toEntityId": "au-dept-veterans-affairs" },
-
-    { "id": "au-rel-minister-agriculture-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-agriculture-fisheries-and-forestry", "toEntityId": "au-dept-agriculture" },
-    { "id": "au-rel-minister-ag-administers", "type": "administers", "fromEntityId": "au-exec-attorney-general", "toEntityId": "au-dept-attorney-generals" },
-    { "id": "au-rel-minister-climate-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-climate-change-and-energy", "toEntityId": "au-dept-climate-energy-environment-water" },
-    { "id": "au-rel-minister-environment-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-the-environment-and-water", "toEntityId": "au-dept-climate-energy-environment-water" },
-    { "id": "au-rel-minister-defence-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-defence", "toEntityId": "au-dept-defence" },
-    { "id": "au-rel-minister-education-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-education", "toEntityId": "au-dept-education" },
-    { "id": "au-rel-minister-ewr-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-employment-and-workplace-relations", "toEntityId": "au-dept-employment-workplace-relations" },
-    { "id": "au-rel-minister-finance-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-finance", "toEntityId": "au-dept-finance" },
-    { "id": "au-rel-minister-foreignaffairs-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-foreign-affairs", "toEntityId": "au-dept-foreign-affairs-trade" },
-    { "id": "au-rel-minister-trade-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-trade-and-tourism", "toEntityId": "au-dept-foreign-affairs-trade" },
-    { "id": "au-rel-minister-health-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-health-and-ageing", "toEntityId": "au-dept-health-disability-ageing" },
-    { "id": "au-rel-minister-disability-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-disability-and-the-national-disability-insurance-scheme", "toEntityId": "au-dept-health-disability-ageing" },
-    { "id": "au-rel-minister-homeaffairs-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-home-affairs", "toEntityId": "au-dept-home-affairs" },
-    { "id": "au-rel-minister-industry-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-industry-and-innovation", "toEntityId": "au-dept-industry-science-resources" },
-    { "id": "au-rel-minister-science-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-science", "toEntityId": "au-dept-industry-science-resources" },
-    { "id": "au-rel-minister-resources-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-resources", "toEntityId": "au-dept-industry-science-resources" },
-    { "id": "au-rel-minister-infrastructure-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-infrastructure-transport-regional-development-and-local-government", "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts" },
-    { "id": "au-rel-minister-communications-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-communications", "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts" },
-    { "id": "au-rel-minister-sport-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-sport", "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts" },
-    { "id": "au-rel-minister-arts-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-the-arts", "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts" },
-    { "id": "au-rel-pm-administers-pmc", "type": "administers", "fromEntityId": "au-exec-prime-minister", "toEntityId": "au-dept-pm-and-cabinet" },
-    { "id": "au-rel-minister-socialservices-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-social-services", "toEntityId": "au-dept-social-services" },
-    { "id": "au-rel-treasurer-administers", "type": "administers", "fromEntityId": "au-exec-treasurer", "toEntityId": "au-dept-treasury" },
-    { "id": "au-rel-minister-veteransaffairs-administers", "type": "administers", "fromEntityId": "au-exec-minister-for-veterans-affairs", "toEntityId": "au-dept-veterans-affairs" },
-
-    { "id": "au-rel-ministers-member-of-fec", "type": "member_of", "fromEntityId": "au-exec-prime-minister", "toEntityId": "au-federal-executive-council", "description": "All ministers are sworn as Executive Councillors." }
+    {
+      "id": "au-rel-hereditary-succession",
+      "type": "ex_officio",
+      "fromEntityId": "au-electors",
+      "toEntityId": "au-king",
+      "description": "The Crown is hereditary, not elected; modelled as ex officio relative to the Australian constitutional order."
+    },
+    {
+      "id": "au-rel-king-appoints-gg",
+      "type": "appoints",
+      "fromEntityId": "au-king",
+      "toEntityId": "au-governor-general",
+      "description": "Appointed under s2 of the Constitution, by convention on the Prime Minister's advice.",
+      "legalSourceUrl": "https://www.legislation.gov.au/C2004Q00685"
+    },
+    {
+      "id": "au-rel-pm-advises-king-on-gg",
+      "type": "advises",
+      "fromEntityId": "au-exec-prime-minister",
+      "toEntityId": "au-king",
+      "description": "By convention, the Prime Minister recommends who the King appoints as Governor-General."
+    },
+    {
+      "id": "au-rel-gg-member-fec",
+      "type": "heads",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-federal-executive-council",
+      "description": "The Governor-General presides over the Federal Executive Council."
+    },
+    {
+      "id": "au-rel-pm-heads-cabinet",
+      "type": "heads",
+      "fromEntityId": "au-exec-prime-minister",
+      "toEntityId": "au-cabinet",
+      "description": "The Prime Minister chairs Cabinet by convention."
+    },
+    {
+      "id": "au-rel-cabinet-advises-fec",
+      "type": "advises",
+      "fromEntityId": "au-cabinet",
+      "toEntityId": "au-federal-executive-council",
+      "description": "Cabinet decisions are given formal legal effect by the Federal Executive Council."
+    },
+    {
+      "id": "au-rel-gg-appoints-secretary-pmc",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-head-dept-pmc",
+      "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation."
+    },
+    {
+      "id": "au-rel-gg-appoints-secretary-agriculture",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-head-dept-agriculture",
+      "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation."
+    },
+    {
+      "id": "au-rel-gg-appoints-secretary-ag",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-head-dept-attorney-generals",
+      "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation."
+    },
+    {
+      "id": "au-rel-gg-appoints-secretary-dcceew",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-head-dept-climate-energy-environment-water",
+      "description": "Appointed under the Public Service Act 1999 on the Prime Minister's recommendation."
+    },
+    {
+      "id": "au-rel-gg-appoints-cj-hc",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-office-chief-justice-high-court",
+      "description": "Appointed in Council under s72 of the Constitution."
+    },
+    {
+      "id": "au-rel-gg-appoints-justice-hc",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-court-high-court",
+      "description": "High Court Justices are appointed in Council under s72 of the Constitution."
+    },
+    {
+      "id": "au-rel-gg-appoints-cj-fedcourt",
+      "type": "appoints",
+      "fromEntityId": "au-governor-general",
+      "toEntityId": "au-office-chief-justice-federal-court",
+      "description": "Appointed under the Federal Court of Australia Act 1976."
+    },
+    {
+      "id": "au-rel-head-pmc-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-pmc",
+      "toEntityId": "au-dept-pm-and-cabinet"
+    },
+    {
+      "id": "au-rel-head-agriculture-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-agriculture",
+      "toEntityId": "au-dept-agriculture"
+    },
+    {
+      "id": "au-rel-head-ag-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-attorney-generals",
+      "toEntityId": "au-dept-attorney-generals"
+    },
+    {
+      "id": "au-rel-head-dcceew-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-climate-energy-environment-water",
+      "toEntityId": "au-dept-climate-energy-environment-water"
+    },
+    {
+      "id": "au-rel-head-defence-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-defence",
+      "toEntityId": "au-dept-defence"
+    },
+    {
+      "id": "au-rel-head-education-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-education",
+      "toEntityId": "au-dept-education"
+    },
+    {
+      "id": "au-rel-head-ewr-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-employment-workplace-relations",
+      "toEntityId": "au-dept-employment-workplace-relations"
+    },
+    {
+      "id": "au-rel-head-finance-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-finance",
+      "toEntityId": "au-dept-finance"
+    },
+    {
+      "id": "au-rel-head-dfat-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-foreign-affairs-trade",
+      "toEntityId": "au-dept-foreign-affairs-trade"
+    },
+    {
+      "id": "au-rel-head-health-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-health-disability-ageing",
+      "toEntityId": "au-dept-health-disability-ageing"
+    },
+    {
+      "id": "au-rel-head-homeaffairs-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-home-affairs",
+      "toEntityId": "au-dept-home-affairs"
+    },
+    {
+      "id": "au-rel-head-isr-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-industry-science-resources",
+      "toEntityId": "au-dept-industry-science-resources"
+    },
+    {
+      "id": "au-rel-head-itrcsa-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-infrastructure-transport-regional-comms-sport-arts",
+      "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts"
+    },
+    {
+      "id": "au-rel-head-dss-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-social-services",
+      "toEntityId": "au-dept-social-services"
+    },
+    {
+      "id": "au-rel-head-treasury-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-treasury",
+      "toEntityId": "au-dept-treasury"
+    },
+    {
+      "id": "au-rel-head-dva-heads-dept",
+      "type": "heads",
+      "fromEntityId": "au-head-dept-veterans-affairs",
+      "toEntityId": "au-dept-veterans-affairs"
+    },
+    {
+      "id": "au-rel-minister-agriculture-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-agriculture-fisheries-and-forestry",
+      "toEntityId": "au-dept-agriculture"
+    },
+    {
+      "id": "au-rel-minister-ag-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-attorney-general",
+      "toEntityId": "au-dept-attorney-generals"
+    },
+    {
+      "id": "au-rel-minister-climate-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-climate-change-and-energy",
+      "toEntityId": "au-dept-climate-energy-environment-water"
+    },
+    {
+      "id": "au-rel-minister-environment-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-the-environment-and-water",
+      "toEntityId": "au-dept-climate-energy-environment-water"
+    },
+    {
+      "id": "au-rel-minister-defence-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-defence",
+      "toEntityId": "au-dept-defence"
+    },
+    {
+      "id": "au-rel-minister-education-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-education",
+      "toEntityId": "au-dept-education"
+    },
+    {
+      "id": "au-rel-minister-ewr-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-employment-and-workplace-relations",
+      "toEntityId": "au-dept-employment-workplace-relations"
+    },
+    {
+      "id": "au-rel-minister-finance-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-finance",
+      "toEntityId": "au-dept-finance"
+    },
+    {
+      "id": "au-rel-minister-foreignaffairs-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-foreign-affairs",
+      "toEntityId": "au-dept-foreign-affairs-trade"
+    },
+    {
+      "id": "au-rel-minister-trade-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-trade-and-tourism",
+      "toEntityId": "au-dept-foreign-affairs-trade"
+    },
+    {
+      "id": "au-rel-minister-health-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-health-and-ageing",
+      "toEntityId": "au-dept-health-disability-ageing"
+    },
+    {
+      "id": "au-rel-minister-disability-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-disability-and-the-national-disability-insurance-scheme",
+      "toEntityId": "au-dept-health-disability-ageing"
+    },
+    {
+      "id": "au-rel-minister-homeaffairs-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-home-affairs",
+      "toEntityId": "au-dept-home-affairs"
+    },
+    {
+      "id": "au-rel-minister-industry-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-industry-and-innovation",
+      "toEntityId": "au-dept-industry-science-resources"
+    },
+    {
+      "id": "au-rel-minister-science-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-science",
+      "toEntityId": "au-dept-industry-science-resources"
+    },
+    {
+      "id": "au-rel-minister-resources-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-resources",
+      "toEntityId": "au-dept-industry-science-resources"
+    },
+    {
+      "id": "au-rel-minister-infrastructure-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-infrastructure-transport-regional-development-and-local-government",
+      "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts"
+    },
+    {
+      "id": "au-rel-minister-communications-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-communications",
+      "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts"
+    },
+    {
+      "id": "au-rel-minister-sport-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-sport",
+      "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts"
+    },
+    {
+      "id": "au-rel-minister-arts-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-the-arts",
+      "toEntityId": "au-dept-infrastructure-transport-regional-comms-sport-arts"
+    },
+    {
+      "id": "au-rel-pm-administers-pmc",
+      "type": "administers",
+      "fromEntityId": "au-exec-prime-minister",
+      "toEntityId": "au-dept-pm-and-cabinet"
+    },
+    {
+      "id": "au-rel-minister-socialservices-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-social-services",
+      "toEntityId": "au-dept-social-services"
+    },
+    {
+      "id": "au-rel-treasurer-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-treasurer",
+      "toEntityId": "au-dept-treasury"
+    },
+    {
+      "id": "au-rel-minister-veteransaffairs-administers",
+      "type": "administers",
+      "fromEntityId": "au-exec-minister-for-veterans-affairs",
+      "toEntityId": "au-dept-veterans-affairs"
+    },
+    {
+      "id": "au-rel-ministers-member-of-fec",
+      "type": "member_of",
+      "fromEntityId": "au-exec-prime-minister",
+      "toEntityId": "au-federal-executive-council",
+      "description": "All ministers are sworn as Executive Councillors."
+    }
   ]
 }

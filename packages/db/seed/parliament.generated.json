@@ -3778,27 +3778,32 @@
     {
       "name": "Penny Allman-Payne",
       "id": "au-person-penny-allman-payne",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Australian_Greens_Senator_for_Queensland_Penny_Allman-Payne_2023.png/330px-Australian_Greens_Senator_for_Queensland_Penny_Allman-Payne_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Michelle Ananda-Rajah",
       "id": "au-person-michelle-ananda-rajah",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Michelle_Ananda-Rajah_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9108%29.jpg/330px-Michelle_Ananda-Rajah_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Alexander Antic",
       "id": "au-person-alexander-antic",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Alex_Antic.jpg/330px-Alex_Antic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Timothy Ayres",
       "id": "au-person-timothy-ayres",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Tim_Ayres_Official_Portrait_%28cropped%29.jpg/330px-Tim_Ayres_Official_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Ralph Babet",
       "id": "au-person-ralph-babet",
-      "partyAffiliation": "UAP"
+      "partyAffiliation": "UAP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ralph_Babet.png/330px-Ralph_Babet.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Sean Bell",
@@ -3808,7 +3813,8 @@
     {
       "name": "Vanessa Bleyer",
       "id": "au-person-vanessa-bleyer",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Vanessa_Bleyer_headshot_%28cropped%29.jpg/330px-Vanessa_Bleyer_headshot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Leah Blyth",
@@ -3818,7 +3824,8 @@
     {
       "name": "Andrew Bragg",
       "id": "au-person-andrew-bragg",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Headshot_of_Senator_Andrew_Bragg%2C_Parliament_House_Canberra%2C_ACT.jpg/330px-Headshot_of_Senator_Andrew_Bragg%2C_Parliament_House_Canberra%2C_ACT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "William Brockman",
@@ -3828,7 +3835,8 @@
     {
       "name": "Carol Brown",
       "id": "au-person-carol-brown",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Carol_Brown.jpg/330px-Carol_Brown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Ross Cadell",
@@ -3838,17 +3846,20 @@
     {
       "name": "Matthew Canavan",
       "id": "au-person-matthew-canavan",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Matt_Canavan_2018_cropped.jpg/330px-Matt_Canavan_2018_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Michaelia Cash",
       "id": "au-person-michaelia-cash",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Michaelia_Cash_2018_%28cropped%29.jpg/330px-Michaelia_Cash_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Claire Chandler",
       "id": "au-person-claire-chandler",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Claire_Chandler_at_the_BOM_Hobart_Observing_Operations_Hub_Opening_2021_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Anthony Chisholm",
@@ -3858,32 +3869,38 @@
     {
       "name": "Raffaele Ciccone",
       "id": "au-person-raffaele-ciccone",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Senator_Raff_Ciccone_Nov_2021.png/330px-Senator_Raff_Ciccone_Nov_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Richard Colbeck",
       "id": "au-person-richard-colbeck",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Richard_Colbeck.jpg/330px-Richard_Colbeck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Jessica Collins",
       "id": "au-person-jessica-collins",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Jessica_Collins_1.jpg/330px-Jessica_Collins_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Dorinda Cox",
       "id": "au-person-dorinda-cox",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Dorinda_Cox_%282022%29_%28Cropped%29.jpg/330px-Dorinda_Cox_%282022%29_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Lisa Darmanin",
       "id": "au-person-lisa-darmanin",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lisa_Darmanin_%28cropped%29.jpg/330px-Lisa_Darmanin_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Josh Dolega",
       "id": "au-person-josh-dolega",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Josh_Dolega_2026.jpg/330px-Josh_Dolega_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Richard Dowling",
@@ -3893,22 +3910,26 @@
     {
       "name": "Jonathon Duniam",
       "id": "au-person-jonathon-duniam",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jonno_Duniam_2017_cropped.jpg/330px-Jonno_Duniam_2017_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Donald Farrell",
       "id": "au-person-donald-farrell",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Senator_Don_Farrell_%282022%29_%283x4_cropped%29.jpg/330px-Senator_Don_Farrell_%282022%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Mehreen Faruqi",
       "id": "au-person-mehreen-faruqi",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Mehreen_Faruqi_2025.webp/330px-Mehreen_Faruqi_2025.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Katherine Gallagher",
       "id": "au-person-katherine-gallagher",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Katherine_Gallagher.jpg/330px-Katherine_Gallagher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Chris Gatenby",
@@ -3923,67 +3944,80 @@
     {
       "name": "Nita Green",
       "id": "au-person-nita-green",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Assistant_Minister_for_Pacific_Island_Affairs_Assistant_Minister_for_Tourism_Assistant_Minister_for_Northern_Australia_Nita_Louise_Green.jpg/330px-Assistant_Minister_for_Pacific_Island_Affairs_Assistant_Minister_for_Tourism_Assistant_Minister_for_Northern_Australia_Nita_Louise_Green.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Karen Grogan",
       "id": "au-person-karen-grogan",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Karen_Grogan_at_the_PIRA_Federal_Election_Forum_02.jpg/330px-Karen_Grogan_at_the_PIRA_Federal_Election_Forum_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Pauline Hanson",
       "id": "au-person-pauline-hanson",
-      "partyAffiliation": "ON"
+      "partyAffiliation": "ON",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Pauline_Hanson_2017_05_%283x4_cropped%29.jpg/330px-Pauline_Hanson_2017_05_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Sarah Hanson-Young",
       "id": "au-person-sarah-hanson-young",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/SarahHansonYoung.jpg/330px-SarahHansonYoung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Sarah Henderson",
       "id": "au-person-sarah-henderson",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarah_Henderson_2019_cropped.jpg/330px-Sarah_Henderson_2019_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Steph Hodgins-May",
       "id": "au-person-steph-hodgins-may",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Steph_Hodgins-May.jpg/330px-Steph_Hodgins-May.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Jane Hume",
       "id": "au-person-jane-hume",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Jane_Hume.png/330px-Jane_Hume.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Maria Kovacic",
       "id": "au-person-maria-kovacic",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Kovacic_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Jacqui Lambie",
       "id": "au-person-jacqui-lambie",
-      "partyAffiliation": "JLN"
+      "partyAffiliation": "JLN",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lambie_2017_%28cropped%29.png/330px-Lambie_2017_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Kerrynne Liddle",
       "id": "au-person-kerrynne-liddle",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kerrynne_Liddle_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Susan Lines",
       "id": "au-person-susan-lines",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sue_Lines_%28cropped_3x4%29.jpg/330px-Sue_Lines_%28cropped_3x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Jennifer McAllister",
       "id": "au-person-jennifer-mcallister",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jenny_McAllister.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Malarndirri McCarthy",
       "id": "au-person-malarndirri-mccarthy",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Malarndirri_McCarthy_PMC_2022.jpg/330px-Malarndirri_McCarthy_PMC_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Susan McDonald",
@@ -3993,22 +4027,26 @@
     {
       "name": "James McGrath",
       "id": "au-person-james-mcgrath",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/McGrathphoto.jpg/330px-McGrathphoto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Bridget McKenzie",
       "id": "au-person-bridget-mckenzie",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bridget_McKenzie_2019.jpg/330px-Bridget_McKenzie_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Nicholas McKim",
       "id": "au-person-nicholas-mckim",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Senator_for_Tasmania_Nicholas_James_McKim.jpg/330px-Senator_for_Tasmania_Nicholas_James_McKim.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Andrew McLachlan",
       "id": "au-person-andrew-mclachlan",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/McLachlan_Profile.jpg/330px-McLachlan_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Corinne Mulholland",
@@ -4018,52 +4056,62 @@
     {
       "name": "Jacinta Nampijinpa Price",
       "id": "au-person-jacinta-nampijinpa-price",
-      "partyAffiliation": "CLP"
+      "partyAffiliation": "CLP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg/330px-Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Deborah O'Neill",
       "id": "au-person-deborah-o-neill",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Deb_Ukraine.png/330px-Deb_Ukraine.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Matthew O'Sullivan",
       "id": "au-person-matthew-o-sullivan",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg/330px-Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "James Paterson",
       "id": "au-person-james-paterson",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg/330px-James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Fatima Payman",
       "id": "au-person-fatima-payman",
-      "partyAffiliation": "AV"
+      "partyAffiliation": "AV",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dai_Le_Fatima_Payman_Circles_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Barbara Pocock",
       "id": "au-person-barbara-pocock",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Barbara_Pocock_%28cropped%29.jpg/330px-Barbara_Pocock_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "David Pocock",
       "id": "au-person-david-pocock",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/David_Pocock_park_%281%29.jpg/330px-David_Pocock_park_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Helen Polley",
       "id": "au-person-helen-polley",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Senator_Helen_Polley.jpg/330px-Senator_Helen_Polley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Malcolm Roberts",
       "id": "au-person-malcolm-roberts",
-      "partyAffiliation": "ON"
+      "partyAffiliation": "ON",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Malcolm_Roberts_2020.jpg/330px-Malcolm_Roberts_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Anne Ruston",
       "id": "au-person-anne-ruston",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Anne_Ruston_at_the_Remembrance_Day_at_the_National_War_Memorial_%28South_Australia%29_2025.jpg/330px-Anne_Ruston_at_the_Remembrance_Day_at_the_National_War_Memorial_%28South_Australia%29_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Paul Scarr",
@@ -4073,22 +4121,26 @@
     {
       "name": "Devanand Sharma",
       "id": "au-person-devanand-sharma",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dave_Sharma_%281%29.jpg/330px-Dave_Sharma_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Anthony Sheldon",
       "id": "au-person-anthony-sheldon",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/COSBOA_National_Small_Business_Summit_2023_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "David Shoebridge",
       "id": "au-person-david-shoebridge",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/David_Shoebridge_2022_party_portrait_cropped.jpg/330px-David_Shoebridge_2022_party_portrait_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Dean Smith",
       "id": "au-person-dean-smith",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dean_Smith_1973.jpg/330px-Dean_Smith_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Marielle Smith",
@@ -4098,47 +4150,56 @@
     {
       "name": "Jordon Steele-John",
       "id": "au-person-jordon-steele-john",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jordon-Steele-John-2019_%28cropped%29.jpg/330px-Jordon-Steele-John-2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Glenn Sterle",
       "id": "au-person-glenn-sterle",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Sterle_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "name": "Jana Stewart",
       "id": "au-person-jana-stewart",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Jana_Stewart_2019.jpg/330px-Jana_Stewart_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Lidia Thorpe",
       "id": "au-person-lidia-thorpe",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Lidia_Thorpe.jpeg/330px-Lidia_Thorpe.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Tammy Tyrrell",
       "id": "au-person-tammy-tyrrell",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tammy_Tyrrell_2024.jpg/330px-Tammy_Tyrrell_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Charlotte Walker",
       "id": "au-person-charlotte-walker",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Charlottewalker.jpg/330px-Charlottewalker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Jess Walsh",
       "id": "au-person-jess-walsh",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/JWHeadshotCrop.jpg/330px-JWHeadshotCrop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Larissa Waters",
       "id": "au-person-larissa-waters",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Larissa_Waters_2025_campaign_portrait.jpg/330px-Larissa_Waters_2025_campaign_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Murray Watt",
       "id": "au-person-murray-watt",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Murray_Watt_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9152%29.jpg/330px-Murray_Watt_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9152%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Ellie Whiteaker",
@@ -4148,22 +4209,26 @@
     {
       "name": "Tyron Whitten",
       "id": "au-person-tyron-whitten",
-      "partyAffiliation": "ON"
+      "partyAffiliation": "ON",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tyron_Whitten.png/330px-Tyron_Whitten.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "name": "Penny Wong",
       "id": "au-person-penny-wong",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Penny_Wong_DFAT_official_%28cropped%29.jpg/330px-Penny_Wong_DFAT_official_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-basem-abdo",
       "name": "Basem Abdo",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Basem_Abdo_at_2025_Calwell_results_declaration_%28cropped%29.JPG/330px-Basem_Abdo_at_2025_Calwell_results_declaration_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-anthony-albanese",
       "name": "Anthony Albanese",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-mary-aldred",
@@ -4173,7 +4238,8 @@
     {
       "id": "au-person-anne-aly",
       "name": "Anne Aly",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Hon_Anne_Aly_MP_-_Official_Portrait_-_000187612_%28cropped%29.jpg/330px-Hon_Anne_Aly_MP_-_Official_Portrait_-_000187612_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-ash-ambihaipahar",
@@ -4193,7 +4259,8 @@
     {
       "id": "au-person-jodie-belyea",
       "name": "Jodie Belyea",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Jodie.belyea.mp_image.jpg/330px-Jodie.belyea.mp_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-carol-berry",
@@ -4203,12 +4270,14 @@
     {
       "id": "au-person-sam-birrell",
       "name": "Sam Birrell",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sam_Birrell_Member_for_Nicholls_2022_-2025_%28cropped%29.jpg/330px-Sam_Birrell_Member_for_Nicholls_2022_-2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-nicolette-boele",
       "name": "Nicolette Boele",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolette_Boele_MP.jpg/330px-Nicolette_Boele_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-christopher-bowen",
@@ -4218,17 +4287,20 @@
     {
       "id": "au-person-colin-boyce",
       "name": "Colin Boyce",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Colin_Boyce_at_the_%22Start_Rockhampton_Ring_Road%22_Rally.jpg/330px-Colin_Boyce_at_the_%22Start_Rockhampton_Ring_Road%22_Rally.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-joanna-briskey",
       "name": "Joanna Briskey",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Jo_Briskey_MP.jpg/330px-Jo_Briskey_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-scott-buchholz",
       "name": "Scott Buchholz",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Scott_Buchholz.jpg/330px-Scott_Buchholz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-anthony-burke",
@@ -4238,17 +4310,20 @@
     {
       "id": "au-person-matt-burnell",
       "name": "Matt Burnell",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lives_Lived_Well_Veterans%E2%80%99_and_Families%E2%80%99_Hub_2024_%28Burnell_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-josh-burns",
       "name": "Josh Burns",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Josh_Burns_2022.jpg/330px-Josh_Burns_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-mark-butler",
       "name": "Mark Butler",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mark_Butler_at_the_2026_Australian_Labor_Party_National_Conference_%28028A8940%29.jpg/330px-Mark_Butler_at_the_2026_Australian_Labor_Party_National_Conference_%28028A8940%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-alison-byrnes",
@@ -4273,32 +4348,38 @@
     {
       "id": "au-person-james-chalmers",
       "name": "James Chalmers",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg/330px-Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9057%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-kate-chaney",
       "name": "Kate Chaney",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kate_Chaney_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-andrew-charlton",
       "name": "Andrew Charlton",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Andrew_Charlton_speaking_at_CeBIT_%28cropped%29.jpg/330px-Andrew_Charlton_speaking_at_CeBIT_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-darren-chester",
       "name": "Darren Chester",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Darren_Chester_2015_portrait.jpg/330px-Darren_Chester_2015_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-lisa-chesters",
       "name": "Lisa Chesters",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Lisa_Chesters_with_volunteers.jpg/330px-Lisa_Chesters_with_volunteers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-jason-clare",
       "name": "Jason Clare",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Jason_Clare_at_the_state_funeral_of_Peter_Buckskin_%28DSCF7676%29.jpg/330px-Jason_Clare_at_the_state_funeral_of_Peter_Buckskin_%28DSCF7676%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sharon-claydon",
@@ -4308,12 +4389,14 @@
     {
       "id": "au-person-claire-clutterham",
       "name": "Claire Clutterham",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Claire_Clutterham_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9102%29.jpg/330px-Claire_Clutterham_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-renee-coffey",
       "name": "Renee Coffey",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Renee_Coffey_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9148%29.jpg/330px-Renee_Coffey_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9148%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-elizabeth-coker",
@@ -4323,17 +4406,20 @@
     {
       "id": "au-person-julie-collins",
       "name": "Julie Collins",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Julie_Collins.jpg/330px-Julie_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-emma-comer",
       "name": "Emma Comer",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emma_Comer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-patrick-conaghan",
       "name": "Patrick Conaghan",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/North_Coast_Regional_Gardens_Glasshouse_Opening_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-patrick-conroy",
@@ -4348,32 +4434,38 @@
     {
       "id": "au-person-patricia-cook",
       "name": "Patricia Cook",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Trish-Cook-Bullwinkel.jpg/330px-Trish-Cook-Bullwinkel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-dugald-dick",
       "name": "Dugald Dick",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Cathaoirleach_of_Seanad_%C3%89ireann%2C_Senator_Jerry_Buttimer%2C_met_with_the_Speaker_of_the_House_of_Representatives_of_Australia%2C_Milton_Dick_MP_on_26_July_2023_04_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-mary-doyle",
       "name": "Mary Doyle",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg/330px-Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-mark-dreyfus",
       "name": "Mark Dreyfus",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Mark_Dreyfus_%282025%29_%28cropped%29.jpg/330px-Mark_Dreyfus_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-maria-elliot",
       "name": "Maria Elliot",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Lady_Elliot_Island.jpg/330px-Lady_Elliot_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-cassandra-fernando",
       "name": "Cassandra Fernando",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Fernando_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-allison-france",
@@ -4393,27 +4485,32 @@
     {
       "id": "au-person-carina-garland",
       "name": "Carina Garland",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg/330px-Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-andrew-gee",
       "name": "Andrew Gee",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Andrew_Gee_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-steven-georganas",
       "name": "Steven Georganas",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Steve_Georganas_at_Rundle_Mall%27s_50th_Birthday_Moment_event_%28028A0805%29.jpg/330px-Steve_Georganas_at_Rundle_Mall%27s_50th_Birthday_Moment_event_%28028A0805%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-andrew-giles",
       "name": "Andrew Giles",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Andrew_Giles_%282021%29.jpg/330px-Andrew_Giles_%282021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-patrick-gorman",
       "name": "Patrick Gorman",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Patrick_Gorman_PMC_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-luke-gosling",
@@ -4428,32 +4525,38 @@
     {
       "id": "au-person-helen-haines",
       "name": "Helen Haines",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Helen_Haines.png/330px-Helen_Haines.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-garth-hamilton",
       "name": "Garth Hamilton",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Garth_Hamilton_Geoscience_Australia_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-andrew-hastie",
       "name": "Andrew Hastie",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/A_Hastie_2023_%28cropped%29.jpg/330px-A_Hastie_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-alexander-hawke",
       "name": "Alexander Hawke",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Alex_Hawke_2016.jpg/330px-Alex_Hawke_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-julian-hill",
       "name": "Julian Hill",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Julian_enhanced_medium_cropped_300_dpi.jpg/330px-Julian_enhanced_medium_cropped_300_dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-kevin-hogan",
       "name": "Kevin Hogan",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/SanAntonioBrahmasvsHoustonRoughnecksUFL51224-45_%2853728670630%29_%28cropped%29.jpg/330px-SanAntonioBrahmasvsHoustonRoughnecksUFL51224-45_%2853728670630%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-rowan-holzberger",
@@ -4463,7 +4566,8 @@
     {
       "id": "au-person-edham-husic",
       "name": "Edham Husic",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Ed_Husic_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9016%29.jpg/330px-Ed_Husic_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-madonna-jarrett",
@@ -4478,17 +4582,20 @@
     {
       "id": "au-person-barnaby-joyce",
       "name": "Barnaby Joyce",
-      "partyAffiliation": "PHON"
+      "partyAffiliation": "PHON",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Barnaby_Joyce_portrait.jpg/330px-Barnaby_Joyce_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-robert-katter",
       "name": "Robert Katter",
-      "partyAffiliation": "KAP"
+      "partyAffiliation": "KAP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bob_Katter_1974_%28cropped%29.jpg/330px-Bob_Katter_1974_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-gerardine-kearney",
       "name": "Gerardine Kearney",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Ged_Kearney_2022.jpg/330px-Ged_Kearney_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-simon-kennedy",
@@ -4498,27 +4605,32 @@
     {
       "id": "au-person-matt-keogh",
       "name": "Matt Keogh",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Matt_Keogh_2023.jpg/330px-Matt_Keogh_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-peter-khalil",
       "name": "Peter Khalil",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Peter_Khalil_Official_Portrait_%28cropped%29.jpg/330px-Peter_Khalil_Official_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-catherine-king",
       "name": "Catherine King",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Catherine_King.jpg/330px-Catherine_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-madeleine-king",
       "name": "Madeleine King",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Madeleine_King.jpg/330px-Madeleine_King.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-michelle-landry",
       "name": "Michelle Landry",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Michelle_Landry.png/330px-Michelle_Landry.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-tania-lawrence",
@@ -4528,27 +4640,32 @@
     {
       "id": "au-person-jerome-laxale",
       "name": "Jerome Laxale",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Jerome_Laxale_Portrait.png/330px-Jerome_Laxale_Portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-dai-le",
       "name": "Dai Le",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Dai_Le_headshot.jpg/330px-Dai_Le_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-julian-leeser",
       "name": "Julian Leeser",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Julian_Leeser_2024.jpg/330px-Julian_Leeser_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-andrew-leigh",
       "name": "Andrew Leigh",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Andrew_Leigh_2017.jpg/330px-Andrew_Leigh_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sussan-ley",
       "name": "Sussan Ley",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Sussan_Ley_2019_%28Higher_Quality%29.jpg/330px-Sussan_Ley_2019_%28Higher_Quality%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sam-lim",
@@ -4558,12 +4675,14 @@
     {
       "id": "au-person-david-littleproud",
       "name": "David Littleproud",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/David_Littleproud.jpg/330px-David_Littleproud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-richard-marles",
       "name": "Richard Marles",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Richard_marles_2022_portrait.jpg/330px-Richard_marles_2022_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-zaneta-mascarenhas",
@@ -4573,37 +4692,44 @@
     {
       "id": "au-person-kristy-mcbain",
       "name": "Kristy McBain",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kristy_McBain_Official_Portrait_%28cropped%29.jpg/330px-Kristy_McBain_Official_Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-emma-mcbride",
       "name": "Emma McBride",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Emma_McBride_Tacoma_Public_School_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-michael-mccormack",
       "name": "Michael McCormack",
-      "partyAffiliation": "NATS"
+      "partyAffiliation": "NATS",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Michael_McCormack_2018-02_%28cropped%29.jpg/330px-Michael_McCormack_2018-02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-melissa-mcintosh",
       "name": "Melissa McIntosh",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/M_McIntosh_Parliamentary_function_CBR_16_May_2024_%28cropped%29.jpg/330px-M_McIntosh_Parliamentary_function_CBR_16_May_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-zoe-mckenzie",
       "name": "Zoe McKenzie",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg/330px-Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-louise-miller-frost",
       "name": "Louise Miller-Frost",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Louise_Miller-Frost.png/330px-Louise_Miller-Frost.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-robert-mitchell",
       "name": "Robert Mitchell",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Rob_Mitchell_and_Jana_Stewart_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-david-moncrieff",
@@ -4613,12 +4739,14 @@
     {
       "id": "au-person-daniel-mulino",
       "name": "Daniel Mulino",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Daniel_Mulino_-_Footscray_%28Oct_2022%29.jpg/330px-Daniel_Mulino_-_Footscray_%28Oct_2022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-shayne-neumann",
       "name": "Shayne Neumann",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Shayne_Neumann_2018_%28cropped%29.jpg/330px-Shayne_Neumann_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-gabriel-ng",
@@ -4633,12 +4761,14 @@
     {
       "id": "au-person-llewellyn-o-brien",
       "name": "Llewellyn O'Brien",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Llew_O%27Brien_%28cropped%29.jpg/330px-Llew_O%27Brien_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-clare-o-neil",
       "name": "Clare O'Neil",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Clare_O%27Neil_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9176%29_-_cropped.jpg/330px-Clare_O%27Neil_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9176%29_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-antony-pasin",
@@ -4658,7 +4788,8 @@
     {
       "id": "au-person-fiona-phillips",
       "name": "Fiona Phillips",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fiona_Phillips.jpg/330px-Fiona_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-henry-pike",
@@ -4668,12 +4799,14 @@
     {
       "id": "au-person-tanya-plibersek",
       "name": "Tanya Plibersek",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tanya_Plibersek.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-melissa-price",
       "name": "Melissa Price",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Melissa_Price_MP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-sam-rae",
@@ -4683,7 +4816,8 @@
     {
       "id": "au-person-leon-rebello",
       "name": "Leon Rebello",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Leon_Rebello_2026.jpg/330px-Leon_Rebello_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-gordon-reid",
@@ -4693,12 +4827,14 @@
     {
       "id": "au-person-daniel-repacholi",
       "name": "Daniel Repacholi",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dan_Repacholi_MP_-_2025_-_Cropped.jpg/330px-Dan_Repacholi_MP_-_2025_-_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-amanda-rishworth",
       "name": "Amanda Rishworth",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Amanda_Rishworth_2018_portrait.jpg/330px-Amanda_Rishworth_2018_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-tracey-roberts",
@@ -4708,37 +4844,44 @@
     {
       "id": "au-person-michelle-rowland",
       "name": "Michelle Rowland",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Michelle_Rowland.jpg/330px-Michelle_Rowland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-joanne-ryan",
       "name": "Joanne Ryan",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d1/Joanne_Ryan%2C_Member_of_Australian_Parliament_for_Lalor.jpg/330px-Joanne_Ryan%2C_Member_of_Australian_Parliament_for_Lalor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-monique-ryan",
       "name": "Monique Ryan",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Monique_Ryan_2023.jpg/330px-Monique_Ryan_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sophie-scamps",
       "name": "Sophie Scamps",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Scamps2024.jpg/330px-Scamps2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-marion-scrymgour",
       "name": "Marion Scrymgour",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Marion_Scrymgour.jpg/330px-Marion_Scrymgour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-rebekha-sharkie",
       "name": "Rebekha Sharkie",
-      "partyAffiliation": "CA"
+      "partyAffiliation": "CA",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Rebekha_Sharkie_2025_cropped.jpg/330px-Rebekha_Sharkie_2025_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sally-sitou",
       "name": "Sally Sitou",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Sally_Sitou_2023.png/330px-Sally_Sitou_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-benjamin-small",
@@ -4753,7 +4896,8 @@
     {
       "id": "au-person-matthew-smith",
       "name": "Matthew Smith",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Matt_Smith_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9046%29.jpg/330px-Matt_Smith_at_the_2026_Australian_Labor_Party_National_Conference_%28028A9046%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-xian-zhi-soon",
@@ -4763,7 +4907,8 @@
     {
       "id": "au-person-allegra-spender",
       "name": "Allegra Spender",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Allegra_Spender_Unearthed_Entrepreneurs_2018_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-anne-stanley",
@@ -4773,17 +4918,20 @@
     {
       "id": "au-person-zali-steggall",
       "name": "Zali Steggall",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Zali_Steggall_official_campaign_image.jpg/330px-Zali_Steggall_official_campaign_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-meryl-swanson",
       "name": "Meryl Swanson",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/MerylSwanson2025.png/330px-MerylSwanson2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-angus-taylor",
       "name": "Angus Taylor",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Angus_Taylor_2018_portrait_black.jpg/330px-Angus_Taylor_2018_portrait_black.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-jessica-teesdale",
@@ -4793,27 +4941,32 @@
     {
       "id": "au-person-daniel-tehan",
       "name": "Daniel Tehan",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Dan_Tehan_2017_portrait_cropped.jpg/330px-Dan_Tehan_2017_portrait_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-susan-templeman",
       "name": "Susan Templeman",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Susan_Templeman_MP.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-matthew-thistlethwaite",
       "name": "Matthew Thistlethwaite",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Matt_Thistlethwaite_Portrait_2025.jpg/330px-Matt_Thistlethwaite_Portrait_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-phillip-thompson",
       "name": "Phillip Thompson",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Phillip_Thompson_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-kate-thwaites",
       "name": "Kate Thwaites",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kate_Thwaites_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-anne-urquhart",
@@ -4833,17 +4986,20 @@
     {
       "id": "au-person-andrew-wallace",
       "name": "Andrew Wallace",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andrew_Wallace.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-elizabeth-watson-brown",
       "name": "Elizabeth Watson-Brown",
-      "partyAffiliation": "AG"
+      "partyAffiliation": "AG",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Elizabeth_Watson-Brown.png/330px-Elizabeth_Watson-Brown.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-timothy-watts",
       "name": "Timothy Watts",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Timothy_Yogi_Watts%2C_Demon_Hunter%2C_2017_%28225774007%29.jpg/330px-Timothy_Yogi_Watts%2C_Demon_Hunter%2C_2017_%28225774007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-anne-webster",
@@ -4853,27 +5009,32 @@
     {
       "id": "au-person-anika-wells",
       "name": "Anika Wells",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Anika_Wells_2023.jpg/330px-Anika_Wells_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-rebecca-white",
       "name": "Rebecca White",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/230131_Franklin_-_Rebecca_White_Mural_3976_crop.jpg/330px-230131_Franklin_-_Rebecca_White_Mural_3976_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-andrew-wilkie",
       "name": "Andrew Wilkie",
-      "partyAffiliation": "IND"
+      "partyAffiliation": "IND",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Andrew_Wilkie_2.jpg/330px-Andrew_Wilkie_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-andrew-willcox",
       "name": "Andrew Willcox",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Andrew_Wilcox_Bridget_McKenzie_Steven_Miles_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-timothy-wilson",
       "name": "Timothy Wilson",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tim_Wilson_2020_campaign_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-joshua-wilson",
@@ -4883,27 +5044,32 @@
     {
       "id": "au-person-richard-wilson",
       "name": "Richard Wilson",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Rick_Wilson%2C_Gwalia%2C_2018_%2801%29.jpg/330px-Rick_Wilson%2C_Gwalia%2C_2018_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-sarah-witty",
       "name": "Sarah Witty",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Sarah_Witty_at_2025_Melbourne_results_declaration_%28cropped%29.JPG/330px-Sarah_Witty_at_2025_Melbourne_results_declaration_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-jason-wood",
       "name": "Jason Wood",
-      "partyAffiliation": "LP"
+      "partyAffiliation": "LP",
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Jason_Wood_Assistant_Minister.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
     },
     {
       "id": "au-person-terry-young",
       "name": "Terry Young",
-      "partyAffiliation": "LNP"
+      "partyAffiliation": "LNP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Terry_Young_2023.jpg/330px-Terry_Young_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     },
     {
       "id": "au-person-antonio-zappia",
       "name": "Antonio Zappia",
-      "partyAffiliation": "ALP"
+      "partyAffiliation": "ALP",
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Tony_Zappia_2017.jpg/330px-Tony_Zappia_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
     }
   ],
   "terms": [

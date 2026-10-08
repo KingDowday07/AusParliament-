@@ -1,0 +1,19 @@
+{
+  "name": "@au-graph/ingest",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate:parliament": "tsx scripts/generate-parliament-seed.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@au-graph/data-model": "*",
+    "csv-parse": "^5.5.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}

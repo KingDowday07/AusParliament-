@@ -11,6 +11,8 @@ export function LegendPanel() {
     <div className="relative">
       <button
         onClick={() => setOpen((v) => !v)}
+        aria-expanded={open}
+        aria-haspopup="true"
         className="rounded-full border border-panel-border bg-panel px-4 py-2 text-sm text-foreground hover:border-accent"
       >
         Legend {open ? "▲" : "▼"}

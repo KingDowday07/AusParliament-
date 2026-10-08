@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import type { GraphData } from "@au-graph/db";
 import { PowerMapCanvas } from "./powermap/PowerMapCanvas";
+import { ForceGraphView } from "./graphview/ForceGraphView";
 import { DetailPanel } from "./detail-panel/DetailPanel";
 import { LegendPanel } from "./legend/LegendPanel";
 import { SearchModal } from "./search/SearchModal";
@@ -15,6 +16,7 @@ export function PowerMapApp({ data }: { data: GraphData }) {
   const { current: selectedEntityId, navigate, back, forward, canGoBack, canGoForward } =
     useNavigationHistory(null);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [viewMode, setViewMode] = useState<"power-map" | "graph">("power-map");
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -92,12 +94,38 @@ export function PowerMapApp({ data }: { data: GraphData }) {
           <LegendPanel />
         </div>
 
-        <PowerMapCanvas
-          entities={data.entities}
-          relationships={data.relationships}
-          selectedEntityId={selectedEntityId}
-          onSelect={navigate}
-        />
+        <div className="absolute bottom-4 right-4 z-10 flex overflow-hidden rounded-full border border-panel-border bg-panel text-sm">
+          <button
+            onClick={() => setViewMode("graph")}
+            aria-pressed={viewMode === "graph"}
+            className={`px-4 py-2 ${viewMode === "graph" ? "bg-accent text-black" : "text-muted"}`}
+          >
+            Graph
+          </button>
+          <button
+            onClick={() => setViewMode("power-map")}
+            aria-pressed={viewMode === "power-map"}
+            className={`px-4 py-2 ${viewMode === "power-map" ? "bg-accent text-black" : "text-muted"}`}
+          >
+            Power map
+          </button>
+        </div>
+
+        {viewMode === "power-map" ? (
+          <PowerMapCanvas
+            entities={data.entities}
+            relationships={data.relationships}
+            selectedEntityId={selectedEntityId}
+            onSelect={navigate}
+          />
+        ) : (
+          <ForceGraphView
+            entities={data.entities}
+            relationships={data.relationships}
+            selectedEntityId={selectedEntityId}
+            onSelect={navigate}
+          />
+        )}
       </main>
 
       <SearchModal entities={data.entities} open={searchOpen} onClose={() => setSearchOpen(false)} onSelect={navigate} />

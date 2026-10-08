@@ -92,11 +92,22 @@ export function PowerMapCanvas({
           return (
             <g
               key={node.entity.id}
+              role="button"
+              tabIndex={0}
+              aria-label={node.entity.name}
               transform={`translate(${node.x}, ${node.y})`}
               onClick={() => onSelect(node.entity.id)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  onSelect(node.entity.id);
+                }
+              }}
               onMouseEnter={() => setHoveredId(node.entity.id)}
               onMouseLeave={() => setHoveredId(null)}
-              style={{ cursor: "pointer" }}
+              onFocus={() => setHoveredId(node.entity.id)}
+              onBlur={() => setHoveredId(null)}
+              style={{ cursor: "pointer", outline: "none" }}
             >
               {(isSelected || isHovered) && (
                 <circle r={size / 2 + 5} fill="none" stroke="#e8c468" strokeWidth={2} />

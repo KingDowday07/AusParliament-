@@ -1,4 +1,4 @@
-import type { Entity, OfficeholderTerm, Person, Relationship, Seat } from "@au-graph/data-model";
+import type { Entity, NewsItem, OfficeholderTerm, Person, Relationship, Seat } from "@au-graph/data-model";
 import type { GraphData } from "@au-graph/db";
 
 export interface OfficeholderView {
@@ -58,4 +58,16 @@ export function getConnectionGroups(data: GraphData, entityId: string): Connecti
   }
 
   return [...groups.values()];
+}
+
+function byPublishedAtDesc(a: NewsItem, b: NewsItem): number {
+  return b.publishedAt.localeCompare(a.publishedAt);
+}
+
+export function getNewsForEntity(data: GraphData, entityId: string): NewsItem[] {
+  return data.newsItems.filter((n) => n.relatedEntityIds.includes(entityId)).sort(byPublishedAtDesc);
+}
+
+export function getLatestNews(data: GraphData, limit = 5): NewsItem[] {
+  return [...data.newsItems].sort(byPublishedAtDesc).slice(0, limit);
 }

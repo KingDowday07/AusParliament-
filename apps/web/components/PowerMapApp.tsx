@@ -7,6 +7,7 @@ import { DetailPanel } from "./detail-panel/DetailPanel";
 import { LegendPanel } from "./legend/LegendPanel";
 import { SearchModal } from "./search/SearchModal";
 import { ThemeToggle } from "./ThemeToggle";
+import { LatestNewsCard } from "./home/LatestNewsCard";
 import { useNavigationHistory } from "@/lib/useNavigationHistory";
 
 export function PowerMapApp({ data }: { data: GraphData }) {
@@ -34,9 +35,9 @@ export function PowerMapApp({ data }: { data: GraphData }) {
     <div className="flex h-screen w-screen bg-background text-foreground">
       <aside className="w-[420px] shrink-0 border-r border-panel-border bg-panel">
         {selectedEntity ? (
-          <DetailPanel data={data} entity={selectedEntity} onSelect={navigate} />
+          <DetailPanel key={selectedEntity.id} data={data} entity={selectedEntity} onSelect={navigate} />
         ) : (
-          <div className="flex h-full flex-col gap-3 p-5">
+          <div className="flex h-full flex-col gap-3 overflow-y-auto p-5">
             <div className="text-xs uppercase tracking-wide text-muted">
               CivLab AU (replica) · Core Government
             </div>
@@ -48,6 +49,7 @@ export function PowerMapApp({ data }: { data: GraphData }) {
               {data.entities.length} entities · {data.relationships.length} relationships · {data.persons.length}{" "}
               people on record
             </p>
+            <LatestNewsCard data={data} onSelect={navigate} />
           </div>
         )}
       </aside>

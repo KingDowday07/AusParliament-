@@ -106,10 +106,11 @@ export const entityAliasSchema = z.object({
 
 /** Full seed-file shape for packages/db/seed/*.json */
 export const seedFileSchema = z.object({
-  entities: z.array(entitySchema),
+  entities: z.array(entitySchema).default([]),
   seats: z.array(seatSchema).default([]),
   persons: z.array(personSchema).default([]),
   terms: z.array(officeholderTermSchema).default([]),
   relationships: z.array(relationshipSchema).default([]),
+  newsItems: z.array(newsItemSchema).default([]),
 });
 export type SeedFile = z.infer<typeof seedFileSchema>;

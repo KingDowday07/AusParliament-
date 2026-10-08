@@ -5,7 +5,7 @@ loadSeed()
     console.error(
       `OK: ${data.entities.length} entities, ${data.seats.length} seats, ` +
         `${data.persons.length} persons, ${data.terms.length} terms, ` +
-        `${data.relationships.length} relationships. Referential integrity check passed.`,
+        `${data.relationships.length} relationships, ${data.newsItems.length} news items. Referential integrity check passed.`,
     );
   })
   .catch((err) => {

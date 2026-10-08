@@ -17,7 +17,7 @@ export type GraphData = SeedFile;
  * internally consistent."
  */
 export async function loadSeed(): Promise<GraphData> {
-  const files = ["core-government.json", "parliament.generated.json"];
+  const files = ["core-government.json", "parliament.generated.json", "news.json"];
 
   const merged: GraphData = {
     entities: [],
@@ -25,6 +25,7 @@ export async function loadSeed(): Promise<GraphData> {
     persons: [],
     terms: [],
     relationships: [],
+    newsItems: [],
   };
 
   for (const file of files) {
@@ -39,6 +40,7 @@ export async function loadSeed(): Promise<GraphData> {
     merged.persons.push(...parsed.data.persons);
     merged.terms.push(...parsed.data.terms);
     merged.relationships.push(...parsed.data.relationships);
+    merged.newsItems.push(...parsed.data.newsItems);
   }
 
   checkReferentialIntegrity(merged);
@@ -83,6 +85,13 @@ function checkReferentialIntegrity(data: GraphData): void {
     if (!personIds.has(t.personId)) errors.push(`Term ${t.id} references unknown personId ${t.personId}`);
     if (!relationshipIds.has(t.installingRelationshipId)) {
       errors.push(`Term ${t.id} references unknown installingRelationshipId ${t.installingRelationshipId}`);
+    }
+  }
+  for (const n of data.newsItems) {
+    for (const relatedId of n.relatedEntityIds) {
+      if (!entityIds.has(relatedId)) {
+        errors.push(`NewsItem ${n.id} references unknown relatedEntityId ${relatedId}`);
+      }
     }
   }
 

@@ -1,0 +1,41 @@
+{
+  "_comment": "Hand-curated news items (M3 scope: manual curation, no automated RSS/LLM pipeline yet — that's M4). Summaries are original paraphrases, not reproductions of source text; each links back to its real source article.",
+  "newsItems": [
+    {
+      "id": "au-news-albanese-pacific-trip-2026-10-02",
+      "headline": "Albanese travels to the Pacific for pre-COP31 talks as domestic pressures mount",
+      "bodyMarkdown": "The Prime Minister departed for Fiji and Tuvalu for pre-COP31 climate talks, part of Australia's wider push to maintain influence in the Pacific, even as he faces domestic pressure over cost-of-living and AI-driven job concerns back home.",
+      "publishedAt": "2026-10-02",
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-02/anthony-albanese-climate-change-ai-interest-rates/107217568",
+      "sourceName": "ABC News",
+      "relatedEntityIds": ["au-exec-prime-minister"]
+    },
+    {
+      "id": "au-news-chalmers-budget-savings-2026-10-04",
+      "headline": "Chalmers flags savings package, downplays cost-of-living relief in mid-year update",
+      "bodyMarkdown": "The Treasurer said a savings package will feature in the mid-year budget update due in December, but played down expectations of further cost-of-living relief, pointing to pressure on the budget from higher global bond yields.",
+      "publishedAt": "2026-10-04",
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-04/jim-chalmers-treasurer-cost-of-living-relief-budget-inflation/107226568",
+      "sourceName": "ABC News",
+      "relatedEntityIds": ["au-exec-treasurer"]
+    },
+    {
+      "id": "au-news-privacy-probe-smart-glasses-2026-10-07",
+      "headline": "Privacy regulator launches probe into Chinese smart-glasses maker after AG request",
+      "bodyMarkdown": "The Australian Privacy Commissioner opened a formal investigation into a Chinese software company behind a wave of cheap smart glasses sold in Australia, after the Attorney-General asked the regulator to prioritise the privacy concerns.",
+      "publishedAt": "2026-10-07",
+      "sourceUrl": "https://www.abc.net.au/news/2026-10-07/chinese-company-investigated-over-cheap-smart-glasses-concerns/107233694",
+      "sourceName": "ABC News",
+      "relatedEntityIds": ["au-exec-attorney-general"]
+    },
+    {
+      "id": "au-news-wong-nepal-flood-relief-2026-10-08",
+      "headline": "Australia pledges further flood relief assistance to Nepal",
+      "bodyMarkdown": "Foreign Minister Penny Wong met Nepal's Foreign Minister in Melbourne and announced an additional AUD 15 million in Australian assistance for relief and early recovery from Nepal's recent severe flooding.",
+      "publishedAt": "2026-10-08",
+      "sourceUrl": "https://mofa.gov.np/content/1903/press-release--hon--minister-for-foreign-affairs",
+      "sourceName": "Ministry of Foreign Affairs, Nepal",
+      "relatedEntityIds": ["au-exec-minister-for-foreign-affairs"]
+    }
+  ]
+}

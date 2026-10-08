@@ -1,10 +1,14 @@
+"use client";
+
+import { useState } from "react";
 import type { Entity } from "@au-graph/data-model";
 import type { GraphData } from "@au-graph/db";
 import { ENTITY_TYPE_LABEL } from "@/lib/entity-icon-map";
-import { getConnectionGroups, getCurrentOfficeholders } from "@/lib/entity-queries";
-import { connectionGroupLabel } from "@/lib/relationship-labels";
+import { getConnectionGroups, getCurrentOfficeholders, getNewsForEntity } from "@/lib/entity-queries";
+import { NewsTab } from "./NewsTab";
+import { ConnectionsTab } from "./ConnectionsTab";
 
-const MAX_SHOWN_PER_GROUP = 8;
+type Tab = "news" | "connections";
 
 export function DetailPanel({
   data,
@@ -17,6 +21,8 @@ export function DetailPanel({
 }) {
   const officeholders = getCurrentOfficeholders(data, entity.id);
   const groups = getConnectionGroups(data, entity.id);
+  const news = getNewsForEntity(data, entity.id);
+  const [tab, setTab] = useState<Tab>(news.length > 0 ? "news" : "connections");
 
   return (
     <div className="flex h-full flex-col gap-4 overflow-y-auto p-5 text-sm">
@@ -59,34 +65,22 @@ export function DetailPanel({
         </div>
       )}
 
-      <div className="flex flex-col gap-4 border-t border-panel-border pt-4">
-        {groups.map((group) => (
-          <div key={`${group.type}:${group.direction}`}>
-            <div className="mb-2 flex items-baseline justify-between">
-              <h2 className="font-medium">{connectionGroupLabel(group.type, group.direction)}</h2>
-              <span className="text-xs text-muted">
-                {group.entities.length} {group.entities.length === 1 ? "entity" : "entities"}
-              </span>
-            </div>
-            <div className="grid grid-cols-2 gap-2">
-              {group.entities.slice(0, MAX_SHOWN_PER_GROUP).map((e) => (
-                <button
-                  key={e.id}
-                  onClick={() => onSelect(e.id)}
-                  className="rounded border border-panel-border p-2 text-left text-xs hover:border-accent"
-                >
-                  {e.name}
-                </button>
-              ))}
-            </div>
-            {group.entities.length > MAX_SHOWN_PER_GROUP && (
-              <div className="mt-1 text-xs text-muted">
-                +{group.entities.length - MAX_SHOWN_PER_GROUP} more
-              </div>
-            )}
-          </div>
-        ))}
+      <div className="flex border-b border-panel-border text-sm">
+        <button
+          onClick={() => setTab("news")}
+          className={`px-4 py-2 ${tab === "news" ? "border-b-2 border-accent font-medium" : "text-muted"}`}
+        >
+          News
+        </button>
+        <button
+          onClick={() => setTab("connections")}
+          className={`px-4 py-2 ${tab === "connections" ? "border-b-2 border-accent font-medium" : "text-muted"}`}
+        >
+          Who&apos;s connected?
+        </button>
       </div>
+
+      {tab === "news" ? <NewsTab items={news} /> : <ConnectionsTab groups={groups} onSelect={onSelect} />}
     </div>
   );
 }

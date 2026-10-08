@@ -1,0 +1,22 @@
+{
+  "name": "@au-graph/monitor",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "tsx src/diffParliament.test.ts",
+    "job:refresh-parliament": "tsx src/jobs/refresh-parliament.ts"
+  },
+  "dependencies": {
+    "@au-graph/data-model": "*",
+    "@au-graph/db": "*",
+    "@au-graph/ingest": "*",
+    "drizzle-orm": "^0.45.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}

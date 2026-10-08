@@ -8,6 +8,7 @@ import { LegendPanel } from "./legend/LegendPanel";
 import { SearchModal } from "./search/SearchModal";
 import { ThemeToggle } from "./ThemeToggle";
 import { LatestNewsCard } from "./home/LatestNewsCard";
+import { LatestChangesCard } from "./home/LatestChangesCard";
 import { useNavigationHistory } from "@/lib/useNavigationHistory";
 
 export function PowerMapApp({ data }: { data: GraphData }) {
@@ -50,6 +51,7 @@ export function PowerMapApp({ data }: { data: GraphData }) {
               people on record
             </p>
             <LatestNewsCard data={data} onSelect={navigate} />
+            <LatestChangesCard data={data} onSelect={navigate} />
           </div>
         )}
       </aside>

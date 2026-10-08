@@ -1,0 +1,23 @@
+name: Refresh Parliament Data
+
+# Runs the live APH diffing job daily. REQUIRES a DATABASE_URL repo secret
+# pointing at a provisioned Postgres instance (e.g. Neon) — this workflow
+# is a ready-to-run template, not yet exercised against real storage (see
+# packages/monitor/src/jobs/refresh-parliament.ts for why).
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, off-peak UTC
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run job:refresh-parliament --workspace=packages/monitor
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}

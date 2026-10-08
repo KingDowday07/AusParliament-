@@ -43,7 +43,7 @@ export function PowerMapCanvas({
       role="img"
       aria-label="Power map of the Australian Commonwealth Government"
     >
-      <circle r={VIEW_HALF - 5} fill="#0b0b0d" />
+      <circle r={VIEW_HALF - 5} style={{ fill: "var(--canvas)" }} />
 
       {/* Branch sector backgrounds */}
       {layout.sectors.map((sector) => (
@@ -57,7 +57,7 @@ export function PowerMapCanvas({
 
       {/* Ring guide circles */}
       {layout.ringRadii.map((r) => (
-        <circle key={r} r={r} fill="none" stroke="#ffffff" strokeOpacity={0.06} />
+        <circle key={r} r={r} fill="none" style={{ stroke: "var(--ring-line)" }} />
       ))}
 
       {/* Edges */}
